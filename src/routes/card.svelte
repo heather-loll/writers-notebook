@@ -32,8 +32,8 @@
 
       // Just after creation, apply new styles to expand to modal view
       setTimeout(() => {
-        elem.style.top = "8rem";
-        elem.style.bottom = "8rem";
+        elem.style.top = "6rem";
+        elem.style.bottom = "6rem";
 
         // Remove property so classes work
         elem.style.left = "";
