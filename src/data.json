@@ -1,0 +1,70 @@
+{
+  "Before You Get Started...": [],
+  "Evaluating Sources": [
+    {
+      "num": 1,
+      "title": "Avoid Referencing Ambiguous Statments",
+      "text": "If a source makes a claim that is entirely up to interpretation, it likely does not serve a substantial purpose as evidence. In these instances, it's best to state what would otherwise be your analysis without the empty reference or find a different quote that substanciates your claim.",
+      "quote": "For example, 'We should all support reproductive justice.' There isn't one widely accepted definition of reproductive justice. [Readers] may be wondering if it means access to abortion across racial and economic groups or access to birth control or sex education or some combination of all of those. ... What is it exactly that the argument is asking us to support?",
+      "quoteSource": "Assessing the Strength of an Argument, Anna Mills"
+    },
+    {
+      "num": 1,
+      "title": "Beware of Logical Gaps",
+      "text": "Some arguments may contain a logical gap hidden through intentional vagueness. When evaluating an argument, always apply some skepticism to identify that its reasoning is actually logical and doesn't just sound sensible from the surface.",
+      "quote": "'No medical professional should be allowed to intentionally harm a human. What is a fetus if not human?'\n\n...The above argument does not hold up because it depends on a sleight of hand, a shift from the idea of a human, meaning a human being, to the adjective 'human,' which can apply to anything with human cells and DNA, including hair and toenails.",
+      "quoteSource": "Assessing the Strength of an Argument, Anna Mills"
+    },
+    {
+      "num": 1,
+      "title": "Convey the Level of Endorsement",
+      "text": "When presenting someone's claim, instead of stating that they \"said\" it, try being more descriptive of their opinion before providing the quote. This could be with language such as \"They praise\" or \"They criticize\".",
+      "quote": "If the argument's main purpose is to convince us that something is bad or good or of mixed value, we can signal that evaluation to the reader right off the bat. ...We can ask ourselves how many stars the argument is giving the thing it evaluates. A five-star rating 'celebrates' or 'applauds' its subject while a four-star rating might be said to 'endorse it with some reservations.'",
+      "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
+    }
+  ],
+  "Building an Outline": [
+    {
+      "num": 1,
+      "title": "Make an Argument Map!",
+      "text": "An effective way to visualize an argument is to make a map or similar diagram. In this method, you identify a key concept for the center of the map, and then branch off of it for each subclaim. Those branching nodes can have further branches for things such as evidence and analysis. You can ultimately use this to construct a breakdown of the argument.",
+      "quote": "The argument map can guide us as we write the summary. To make the map, we have already had to choose what to leave out and what to emphasize. We have already shown what role each claim plays in the overall argument. Now, instead of colors and arrows and labels like 'claim' and 'reason,' we will use strategic phrases to show how the parts fit together.",
+      "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
+    }
+  ],
+  "Writing Productive Drafts": [
+    {
+      "num": 1,
+      "title": "Ramble, Then Sift",
+      "text": "Feel empowered to write everything that comes to mind on the first draft, even if it is messy and loosely structured. Then, go back and remove anything unnecesary, or even elaborate on any incomplete thoughts. Drafts aren't meant to be perfect, so be anything but a perfectionist!",
+      "quote": "The next day, I'd sit down, go through it all with a colored pen, take out everything I possibly could, find a new lead somewhere on the second page, figure out a kicky place to end it, and then write a second draft.",
+      "quoteSource": "Shitty First Drafts, Anne Lamott"
+    },
+    {
+      "num": 1,
+      "title": "Drafts Can Be Outlines",
+      "text": "An outline's purpose is to structure your thoughts and get ideas going. Depending on the person and their attitude towards the subject matter, the most productive outline might be a messy prototype of the final work. A lot of times, we can get eager to get our ideas out on paper, and while it's unlikely for our initial ramble will be as polished as ideal, it could provide a guiding vision for what the final result may resemble.",
+      "quote": "The first draft is the child's draft, where you let it all pour out and then let it romp all over the place, knowing that no one is going to see it and that you can shape it later. You just let this childlike part of you channel whatever voices and visions come through and onto the page.",
+      "quoteSource": "Shitty First Drafts, Anne Lamott"
+    }
+  ],
+  "Polishing and Perfecting": [],
+  "\"Rules\" to be Broken": [
+    {
+      "num": 1,
+      "title": "\"I\" Statements are Welcome",
+      "text": "Many students, myself included, are told to avoid using first-person statements that draw from personal experience. While this may be explicitly enforced in some settings, this is more of a stylistic choice than a firm rule that must be followed.",
+      "quote": "Many of you have been taught not to use the word 'I' in your academic writing; not to include anything that does not directly relate to that mysterious thing called a 'thesis statement;' and not to include anything personal in your writing. The opening of this essay has broken all of those so-called rules ...",
+      "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    }
+  ],
+  "Rhetorical Toolkit": [
+    {
+      "num": 1,
+      "title": "Establish Credibility Through Personal Examples",
+      "text": "Personal narrative can demonstrate why an issue relates to someting you're knowledgable or passionate about, which establishes you as a credible author. For emotionally touching stories, it can also provide a dimension of reality and the topic to remind the reader that the events discussed have real-world emotional impact.",
+      "quote": "Melynda chose to write about teen suicide, certainly an important topic, but one that far too often leads to a patchwork of statistics and distant narratives, more a report than an essay with heart. Sadly, Melynda had reason to care deeply about her topic: her cousin Jared killed himself with an overdose of prescription pain medication.",
+      "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    }
+  ]
+}
