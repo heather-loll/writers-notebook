@@ -21,6 +21,20 @@
       "text": "When presenting someone's claim, instead of stating that they \"said\" it, try being more descriptive of their opinion before providing the quote. This could be with language such as \"They praise\" or \"They criticize\".",
       "quote": "If the argument's main purpose is to convince us that something is bad or good or of mixed value, we can signal that evaluation to the reader right off the bat. ...We can ask ourselves how many stars the argument is giving the thing it evaluates. A five-star rating 'celebrates' or 'applauds' its subject while a four-star rating might be said to 'endorse it with some reservations.'",
       "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
+    },
+    {
+      "num": 1,
+      "title": "Read Like A Writer",
+      "text": "When analyzing a source, consider the perspective of the writer and evaluate the different decisions that went into writing the text. No one understands the author's perspective better than the author themself, so it can be valuable to try to see their perspective and understand the different choices they made.",
+      "quote": "When you Read Like a Writer (RLW) you work to identify some of the choices the author made so that you can better understand how such choices might arise in your own writing.",
+      "quoteSource": "How to Read Like a Writer, Mike Bunn"
+    },
+    {
+      "num": 1,
+      "title": "See the Big and the Small Picture",
+      "text": "Important information about a piece writing can be found everywhere within it! To fully understand a source, it is helpful to analyze on a macro scale (i.e. structure, logical flow, pacing, purpose) and a micro scale (i.e. diction, syntax, use of figurative language, grammar). This helps you see the big picture and can make it easier to analyze in your own writing.",
+      "quote": "The goal as you read like a writer is to locate what you believe are the most important writerly choices represented in the text-choices as large as the overall structure or as small as a single word used only once.",
+      "quoteSource": "How to Read Like a Writer, Mike Bunn"
     }
   ],
   "Building an Outline": [
@@ -30,6 +44,20 @@
       "text": "An effective way to visualize an argument is to make a map or similar diagram. In this method, you identify a key concept for the center of the map, and then branch off of it for each subclaim. Those branching nodes can have further branches for things such as evidence and analysis. You can ultimately use this to construct a breakdown of the argument.",
       "quote": "The argument map can guide us as we write the summary. To make the map, we have already had to choose what to leave out and what to emphasize. We have already shown what role each claim plays in the overall argument. Now, instead of colors and arrows and labels like 'claim' and 'reason,' we will use strategic phrases to show how the parts fit together.",
       "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
+    },
+    {
+      "num": 1,
+      "title": "Order of Subclaims Matters",
+      "text": "When outlining the essay, consider what order each subclaim should be presented in. It is rare for the order to be completely irrelevant, so consider if they have natural chronology or can build off of each other if presented in a thoughtful order.",
+      "quote": "There may be multiple ways to order your topic sentences and units of support for the same thesis and you, as the writer, need to identify an order that makes sense, given your purpose, content, and reading audience.",
+      "quoteSource": "Writing the Essay Draft, Susan Oaks"
+    },
+    {
+      "num": 1,
+      "title": "Merge Styles to Create New Ones",
+      "text": "It can often be difficult to find a unique voice or approach in writing. A common way to do this may be by compiling several, perhaps vastly different, styles into one. This, in essence, is the creative process and can lead to interesting and distinct styles.",
+      "quote": "Data, by combining two “radically different styles,” has created his own style. Without the imitation and interpretation of those two, he could not and would not have generated his own style.",
+      "quoteSource": "The Evolution of Imitation: Building Your Style, Craig A. Meyer"
     }
   ],
   "Writing Productive Drafts": [
@@ -46,9 +74,38 @@
       "text": "An outline's purpose is to structure your thoughts and get ideas going. Depending on the person and their attitude towards the subject matter, the most productive outline might be a messy prototype of the final work. A lot of times, we can get eager to get our ideas out on paper, and while it's unlikely for our initial ramble will be as polished as ideal, it could provide a guiding vision for what the final result may resemble.",
       "quote": "The first draft is the child's draft, where you let it all pour out and then let it romp all over the place, knowing that no one is going to see it and that you can shape it later. You just let this childlike part of you channel whatever voices and visions come through and onto the page.",
       "quoteSource": "Shitty First Drafts, Anne Lamott"
+    },
+    {
+      "num": 1,
+      "title": "Consider Writing the Indroduction Last",
+      "text": "Introductions are important and set the context for the rest of the essay. For that reason, it may be beneficial to save the introduction for last to ensure it accurately captures everything the essay has to say.",
+      "quote": "Many teachers generally recommend that students write their introductions last, because oftentimes introductions are the hardest paragraphs to write. They're difficult to write first because you have to consider what the reader needs to know about your topic before getting to the thesis.",
+      "quoteSource": "Writing the Essay Draft, Susan Oaks"
+    },
+    {
+      "num": 1,
+      "title": "Feedback is Valuable at All Stages",
+      "text": "Even if you're not happy with where your writing is, it can still be helpful to get feedback and suggestions from others. Don't fear that the reviewer will be too critical, that is the point of getting feedback before submitting/publishing your work!",
+      "quote": "Many people avoid asking others what they think about a piece of writing because they have a sneaking suspicion that the news will not be good. If you want to improve your writing, however, constructive criticism from others will help. Remember that the criticism you receive is only criticism of the writing and not of the writer.",
+      "quoteSource": "Getting Feedback, Writing Center of UNC Chapel Hill"
     }
   ],
-  "Polishing and Perfecting": [],
+  "Polishing and Perfecting": [
+    {
+      "num": 1,
+      "title": "Add Flavor with Punctuation",
+      "text": "Punctuation serves a purpose beyond just gramatical correctness. Explore interesting uses of punctuation to make your writing more playful and engaging!",
+      "quote": "Ultimately, though, we should care about punctuation not because of the rules but because of our readers. Writing that's well punctuated is more than just 'correct.' It's readable, informative, and often even engaging. In short, it's rhetorically effective.",
+      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
+    },
+    {
+      "num": 1,
+      "title": "Ensure Everything is Unified",
+      "text": "When going from drafts to a final product, an important thing to verify is that all ideas flow nicely between each other and all relate to supporting the thesis. The writing may look finished, but you can benefit from reevaluating if all of the information is actually necesary, cohesive, and works towards proving your thesis. (Bonus Tip: if your ideas don't all relate to your thesis, consider updating the thesis instead of the essay!)",
+      "quote": "Every paragraph should be:\n• Unified: All of the sentences in a single paragraph should be related to a single controlling idea (often expressed in the topic sentence of the paragraph).\n• Clearly related to the thesis: The sentences should all refer to the central idea, or thesis, of the paper (Rosen and Behrens 119).\n• Coherent: The sentences should be arranged in a logical manner and should follow a definite plan for development (Rosen and Behrens 119).\n...",
+      "quoteSource": "Paragraphs, Writing Center of UNC Chapel Hill"
+    }
+  ],
   "\"Rules\" to be Broken": [
     {
       "num": 1,
@@ -56,6 +113,20 @@
       "text": "Many students, myself included, are told to avoid using first-person statements that draw from personal experience. While this may be explicitly enforced in some settings, this is more of a stylistic choice than a firm rule that must be followed.",
       "quote": "Many of you have been taught not to use the word 'I' in your academic writing; not to include anything that does not directly relate to that mysterious thing called a 'thesis statement;' and not to include anything personal in your writing. The opening of this essay has broken all of those so-called rules ...",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    },
+    {
+      "num": 1,
+      "title": "Immitation vs. Plagarism",
+      "text": "Immitating other work can be an efficient approach to learning from the work we read. Immitating is different from plagarism since it strives to learn from the conventions of the sampled work rather than copying from it. This is an encouraged academic practice and a common method of learning in many other settings.",
+      "quote": "Oftentimes, we learn by mimicking or imitating others. Consider how you might catch yourself acting like a parent or close loved one—in essence, you are imitating that behavior.",
+      "quoteSource": "The Evolution of Imitation: Building Your Style, Craig A. Meyer"
+    },
+    {
+      "num": 1,
+      "title": "Play With Punctuation!",
+      "text": "We are often taught that punctuation is a rule of grammar that must be followed in writing, which can feel restricting. In reality, puctuation is flexible and you can adapt different uses of punctuation in creative ways!",
+      "quote": "Instead of 'rules,' we prefer to use the more flexible word conventions, which includes standard expectations of correct usage—certain 'rules'—but applies them within a broader context in which authors frequently have options on how and when to use punctuation.",
+      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     }
   ],
   "Rhetorical Toolkit": [
@@ -65,6 +136,13 @@
       "text": "Personal narrative can demonstrate why an issue relates to someting you're knowledgable or passionate about, which establishes you as a credible author. For emotionally touching stories, it can also provide a dimension of reality and the topic to remind the reader that the events discussed have real-world emotional impact.",
       "quote": "Melynda chose to write about teen suicide, certainly an important topic, but one that far too often leads to a patchwork of statistics and distant narratives, more a report than an essay with heart. Sadly, Melynda had reason to care deeply about her topic: her cousin Jared killed himself with an overdose of prescription pain medication.",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    },
+    {
+      "num": 1,
+      "title": "Punctuation Alters Voice and Tone",
+      "text": "A writer's use of punctuation can influence the tone and voice of the writing. Punctuation can imply sophistication such as with the use of em-dashes which are typically not used in casual settings. It could also imply a laid back tone such as with ellipsis at the end of sentences (i.e. \"ummm... not sure about that..?\"). The use of punctuation can range pretty heavily between mediums such as casual texting to scholarly papers, so it is important to consider how your punctuation comes off.",
+      "quote": "...punctuation, by conveying the tone of an author's voice, can also illustrate the context of a situation being described",
+      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     }
   ]
 }
