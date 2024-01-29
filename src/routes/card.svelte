@@ -185,7 +185,6 @@
     {quoteSource}
     isModal={true}
     {rect}
-    open={modalOpen}
     closeParent={closeModal}
   >
     <slot />
