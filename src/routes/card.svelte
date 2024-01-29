@@ -21,40 +21,49 @@
     closeAnimation();
   }
 
+  const reducedMotion = () =>
+    window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
   onMount(() => {
     if (isModal) {
       // Start in closing state (matches original card)
       closeAnimation();
 
       // Add a transition
-      const time = 300;
+      const time = 300 * Number(!reducedMotion());
       elem.style.transition = `top ${time}ms, bottom ${time}ms, left ${time}ms, right ${time}ms`;
 
       // Just after creation, apply new styles to expand to modal view
-      setTimeout(() => {
-        elem.style.top = "6rem";
-        elem.style.bottom = "6rem";
+      setTimeout(
+        () => {
+          elem.style.top = "6rem";
+          elem.style.bottom = "6rem";
 
-        // Remove property so classes work
-        elem.style.left = "";
-        elem.style.right = "";
+          // Remove property so classes work
+          elem.style.left = "";
+          elem.style.right = "";
 
-        // Use tailwind so classes are responsive
-        elem.classList.add("left-4");
-        elem.classList.add("right-4");
-        elem.classList.add("md:left-12");
-        elem.classList.add("md:right-12");
-        elem.classList.add("lg:left-48");
-        elem.classList.add("lg:right-48");
+          // Use tailwind so classes are responsive
+          elem.classList.add("left-4");
+          elem.classList.add("right-4");
+          elem.classList.add("md:left-12");
+          elem.classList.add("md:right-12");
+          elem.classList.add("lg:left-48");
+          elem.classList.add("lg:right-48");
 
-        elem
-          .querySelector(".modal-close-button")
-          ?.classList.remove("opacity-0");
+          elem
+            .querySelector(".modal-close-button")
+            ?.classList.remove("opacity-0");
 
-        setTimeout(() => {
-          elem.style.overflow = "auto";
-        }, 299);
-      }, 1);
+          setTimeout(
+            () => {
+              elem.style.overflow = "auto";
+            },
+            reducedMotion() ? 0 : 299
+          );
+        },
+        reducedMotion() ? 0 : 1
+      );
     }
   });
 
@@ -77,10 +86,13 @@
 
   const closeModal = () => {
     modalIsOpen.set(false);
-    setTimeout(() => {
-      modalOpen = false;
-      document.documentElement.style.overflow = "auto";
-    }, 300);
+    setTimeout(
+      () => {
+        modalOpen = false;
+        document.documentElement.style.overflow = "auto";
+      },
+      reducedMotion() ? 0 : 300
+    );
   };
 
   const keydown = (e: KeyboardEvent) => {
@@ -161,7 +173,9 @@
       on:click={closeModal}
       role="presentation"
       aria-hidden="true"
-      transition:fade={{ duration: 300 }}
+      transition:fade={{
+        duration: 300 * Number(!reducedMotion()),
+      }}
     />
   {/if}
   <svelte:self

@@ -6,3 +6,9 @@
 html {
   scrollbar-gutter: stable;
 }
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0s;
+  }
+}
