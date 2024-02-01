@@ -40,6 +40,30 @@
         View On GitHub
       </span>
     </a>
+    <a
+      class="absolute left-0 top-0 p-4 flex gap-1.5 items-center drop-shadow-lg hover:opacity-75"
+      href="/raw"
+      tabindex={$modalIsOpen ? -1 : 0}
+    >
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="1.5"
+        stroke="currentColor"
+        class="w-6 h-6 stroke-white/90"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          d="M8.25 6.75h12M8.25 12h12m-12 5.25h12M3.75 6.75h.007v.008H3.75V6.75Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0ZM3.75 12h.007v.008H3.75V12Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Zm-.375 5.25h.007v.008H3.75v-.008Zm.375 0a.375.375 0 1 1-.75 0 .375.375 0 0 1 .75 0Z"
+        />
+      </svg>
+
+      <span class="text-white/90 font-semibold hidden md:inline">
+        Raw Data
+      </span>
+    </a>
     <div class="pb-16">
       <h1 class="text-5xl text-white font-black uppercase text-center mb-1">
         Writer's Notebook
@@ -51,6 +75,15 @@
       </p>
     </div>
   </header>
+
+  <noscript class=""
+    ><div class="text-center mx-auto w-full mb-12 text-xl">
+      Page not working? <a href="/raw" class="text-primary-600 hover:underline"
+        >View Raw Data</a
+      >.
+    </div></noscript
+  >
+
   <div class="container mx-auto px-4 md:px-12 lg:px-24 2xl:px-32">
     {#each categories as category}
       <Category categoryName={category.name} tips={category.data} />
@@ -63,5 +96,6 @@
     href="#!"
     class="text-primary-600 hover:underline"
     tabindex={$modalIsOpen ? -1 : 0}>View code on GitHub</a
-  >!
+  >!<br />Difficulty viewing this page?
+  <a href="/raw" class="text-primary-600 hover:underline">View Raw Data</a>.
 </footer>
