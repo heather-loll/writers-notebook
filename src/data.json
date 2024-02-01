@@ -1,5 +1,4 @@
 {
-  "Before You Get Started...": [],
   "Evaluating Sources": [
     {
       "num": 1,
@@ -58,6 +57,13 @@
       "text": "It can often be difficult to find a unique voice or approach in writing. A common way to do this may be by compiling several, perhaps vastly different, styles into one. This, in essence, is the creative process and can lead to interesting and distinct styles.",
       "quote": "Data, by combining two “radically different styles,” has created his own style. Without the imitation and interpretation of those two, he could not and would not have generated his own style.",
       "quoteSource": "The Evolution of Imitation: Building Your Style, Craig A. Meyer"
+    },
+    {
+      "num": 1,
+      "title": "Consider Information Heiarchy",
+      "text": "For concise or persuasive text, you may want to convey information swiftly to the reader. Often, readers will not read a peice in it's entirety, or will lose focus as they read. To combat this, consider putting the most important and actionable information at the start of the work for maximal effect.",
+      "quote": "Keep the most important information at the beginning of your sheet. Let your audience know what the issue is and what action you would like them to do. Otherwise, they may decide to quit reading before they know what you want them to do!",
+      "quoteSource": "Fact Sheet Handout, Kent State"
     }
   ],
   "Writing Productive Drafts": [
@@ -104,6 +110,13 @@
       "text": "When going from drafts to a final product, an important thing to verify is that all ideas flow nicely between each other and all relate to supporting the thesis. The writing may look finished, but you can benefit from reevaluating if all of the information is actually necesary, cohesive, and works towards proving your thesis. (Bonus Tip: if your ideas don't all relate to your thesis, consider updating the thesis instead of the essay!)",
       "quote": "Every paragraph should be:\n• Unified: All of the sentences in a single paragraph should be related to a single controlling idea (often expressed in the topic sentence of the paragraph).\n• Clearly related to the thesis: The sentences should all refer to the central idea, or thesis, of the paper (Rosen and Behrens 119).\n• Coherent: The sentences should be arranged in a logical manner and should follow a definite plan for development (Rosen and Behrens 119).\n...",
       "quoteSource": "Paragraphs, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Consider Your Audience",
+      "text": "Check for language that is too complex or explanations that are unnecesary given your paper's intended audience. For wider audiences, it's important to consider what concepts inexperienced readers may be unfamiliar with in order to make the work more accessible. If the writing is intended for more experienced readers, you can avoid explaining concepts those readers may alredy be familiar with.",
+      "quote": "Before preparing a fact sheet, think about your audience. Your information will be written differently if the audience is experts in the field versus the general public. If your audience is the general public, use words that the average person (someone without professional training in the subject area) can understand.",
+      "quoteSource": "Fact Sheet Handout, Kent State"
     }
   ],
   "\"Rules\" to be Broken": [
