@@ -35,7 +35,7 @@
 
 <div class="prose p-4 mx-auto container my-8">
   <div
-    class="p-6 flex space-x-5 rounded border-2 border-gray-300 mb-8 -mx-8 items-center"
+    class="p-6 flex space-x-5 rounded border-2 border-gray-300 mb-8 md:-mx-8 items-center"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -59,7 +59,7 @@
   <h1 class="mb-0">Writer's Notebook</h1>
   <p class="mt-2">Gavin Hernandez, WRIT1, UCSC Winter Quarter</p>
 
-  <hr class="mt-4 mb-8 border-gray-300 -mx-8" />
+  <hr class="mt-4 mb-8 border-gray-300 md:-mx-8" />
 
   {#each categories as category}
     <h2>{category.name}</h2>
