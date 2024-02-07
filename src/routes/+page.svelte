@@ -26,7 +26,7 @@
   >
     <a
       class="absolute right-0 top-0 p-4 flex gap-1.5 items-center drop-shadow-lg hover:opacity-75"
-      href="#!"
+      href="https://github.com/GavHern/writers-notebook"
       tabindex={$modalIsOpen ? -1 : 0}
     >
       <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 fill-white/90">
@@ -93,7 +93,7 @@
 
 <footer class="bg-gray-200 p-4 text-center">
   Made by Gavin Hernandez for Writing 1, UCSC Winter Quarter 2024. <a
-    href="#!"
+    href="https://github.com/GavHern/writers-notebook"
     class="text-primary-600 hover:underline"
     tabindex={$modalIsOpen ? -1 : 0}>View code on GitHub</a
   >!<br />Difficulty viewing this page?
