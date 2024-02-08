@@ -78,6 +78,13 @@
       "text": "Before you start outlining, be sure that you fully understand the expectations of the assignment to ensure you cover all of the key information needed. If the writing is not done for a clearly outlined assignment, consider what the hypothetical assignment would be to make sure you're considering what information and research is required to make an effective outline.",
       "quote": "Understand the assignment\nIs it an assigned topic or can it be one of your own choosing?\nHow many pages should it be?\nAre you required to use certain types of materials, such as scholarly articles?",
       "quoteSource": "Library Research Step by Step, UCSC University Library"
+    },
+    {
+      "num": 1,
+      "title": "Remember to Provide Background Information",
+      "text": "When breaking a topic down, it is easy to forget the context you already have as the writer. Usually, readers have a smaller understanding of the topics being discussed compared to the writer, and it is important to consider what context may need to be accounted for in your writing.",
+      "quote": "If you are motivated enough to write a letter to a newspaper or magazine, the importance of your topic may seem clear to you. Remember, though, that the general public probably doesn't share your background or the interest. Explain the issue and its importance simply. Use plain language that most people will understand.",
+      "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     }
   ],
   "Writing Productive Drafts": [
@@ -108,6 +115,13 @@
       "text": "Even if you're not happy with where your writing is, it can still be helpful to get feedback and suggestions from others. Don't fear that the reviewer will be too critical, that is the point of getting feedback before submitting/publishing your work!",
       "quote": "Many people avoid asking others what they think about a piece of writing because they have a sneaking suspicion that the news will not be good. If you want to improve your writing, however, constructive criticism from others will help. Remember that the criticism you receive is only criticism of the writing and not of the writer.",
       "quoteSource": "Getting Feedback, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Focus on Your First Sentence",
+      "text": "Making a good impression is important to hook your reader in and set the tone for your introduction. Because of this, it may be beneficial to spend a little extra time getting it right or being sure to revisit the first sentence in subsequent drafts.",
+      "quote": "Your opening sentence is very important. It should tell readers what you're writing about, and make them want to read more.",
+      "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     }
   ],
   "Polishing and Perfecting": [
@@ -131,6 +145,13 @@
       "text": "Check for language that is too complex or explanations that are unnecesary given your paper's intended audience. For wider audiences, it's important to consider what concepts inexperienced readers may be unfamiliar with in order to make the work more accessible. If the writing is intended for more experienced readers, you can avoid explaining concepts those readers may alredy be familiar with.",
       "quote": "Before preparing a fact sheet, think about your audience. Your information will be written differently if the audience is experts in the field versus the general public. If your audience is the general public, use words that the average person (someone without professional training in the subject area) can understand.",
       "quoteSource": "Fact Sheet Handout, Kent State"
+    },
+    {
+      "num": 1,
+      "title": "Practice Being Concise",
+      "text": "When you have a limited number of words, it may be helpful to practice being concise with your writing and to only make short, effective, and necessary sentences.",
+      "quote": "Throughout your letter, remember the rule:\n• Be quick,\n• Be concise, and then\n• Be quiet.\n\nDon't make the editor or the general public wait to find out what you want to say. Tell them your key point at the beginning.",
+      "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     }
   ],
   "\"Rules\" to be Broken": [
@@ -154,6 +175,13 @@
       "text": "We are often taught that punctuation is a rule of grammar that must be followed in writing, which can feel restricting. In reality, puctuation is flexible and you can adapt different uses of punctuation in creative ways!",
       "quote": "Instead of 'rules,' we prefer to use the more flexible word conventions, which includes standard expectations of correct usage—certain 'rules'—but applies them within a broader context in which authors frequently have options on how and when to use punctuation.",
       "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
+    },
+    {
+      "num": 1,
+      "title": "Don't Confine Yourself to Text",
+      "text": "Conventionally, \"writing\" relates to just the words on the page and is usually associated with articles, essays, novels, etc.. Though, depending on the medium, your expression of ideas as a writer doesn't need to be confined to just words on a page. Images/Figures or accompanying audio/video can be a helpful way to supplementally communicate your ideas in a more engaging format.",
+      "quote": "...as more writers publish and distribute their work online, the more readers expect to find that information may be communicated in multiple modes, from text to visuals and audio.",
+      "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
     }
   ],
   "Rhetorical Toolkit": [
@@ -184,6 +212,20 @@
       "text": "Appeals to emotion can be a strong way to communicate an actionable message, but cautious of the way you communicate in this way. If it's too frontal, it may give off a feeling of bias and guilt-tripping rather than persuasion.",
       "quote": "Appealing to the reader's emotions (using pathos) can be very effective at helping the reader connect to the author's main point, but when we select sources for research projects, we must make sure that an author's appeal to emotion is not a sign of bias. Biased sources may cause readers to feel guilty about holding certain viewpoints or engaging in certain activities ...",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    },
+    {
+      "num": 1,
+      "title": "Pay Attention to Photo Composition",
+      "text": "More presentable photos and figures can have a noticable impact on a reader's opinion on what is being shown. For example, a well-composed photo of food from a restaurant is more likely to appetize a potential customer than a dimly shot photo of already-handled food.",
+      "quote": "The fact of the matter is that you can't know exactly what your restauranting experience will be like when you walk in the door of a new place. But the images clearly had a persuasive impact on you as a decision-maker: the contrast between the appetizing images and the unappetizing photos made you question the quality and consistency of the restaurant's food ...",
+      "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
+    },
+    {
+      "num": 1,
+      "title": "Seperation of Art and Visual Rhetoric",
+      "text": "Sometimes, visuals are added to text for an artistic/aethetic goal or as a form of visual explanation. Other times, they may exist as a form of persuasion and appeal. It is important to be able to identify this different and ensure you understand your own intentions when adding visuals to your writing.",
+      "quote": "A picture of a hamburger framed in an art museum does not exist to market hamburgers (though it might make you hungry!). However, a picture of a hamburger on an Instagram feed for a particular restaurant exists as a way to encourage visitors to come and dine at the restaurant.",
+      "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
     }
   ]
 }
