@@ -122,22 +122,29 @@
       "text": "Making a good impression is important to hook your reader in and set the tone for your introduction. Because of this, it may be beneficial to spend a little extra time getting it right or being sure to revisit the first sentence in subsequent drafts.",
       "quote": "Your opening sentence is very important. It should tell readers what you're writing about, and make them want to read more.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
+    },
+    {
+      "num": 1,
+      "title": "Remember the Reader",
+      "text": "When writing a draft, always remember that you're approaching the topic from a different perspective than the reader. It is easy to assume something flows nicely or reads intuitively since you know your intentions as the writer. Make sure to reflect on the way you're writing to make sure it's universally sensible.",
+      "quote": "When we read our own work, our brains tend to quickly see the patterns that we put on the page rather than the individual words. We see what we meant to write, and not necessarily what we actually wrote.",
+      "quoteSource": "Proofreading, Writing Commons"
     }
   ],
   "Polishing and Perfecting": [
-    {
-      "num": 1,
-      "title": "Add Flavor with Punctuation",
-      "text": "Punctuation serves a purpose beyond just gramatical correctness. Explore interesting uses of punctuation to make your writing more playful and engaging!",
-      "quote": "Ultimately, though, we should care about punctuation not because of the rules but because of our readers. Writing that's well punctuated is more than just 'correct.' It's readable, informative, and often even engaging. In short, it's rhetorically effective.",
-      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
-    },
     {
       "num": 1,
       "title": "Ensure Everything is Unified",
       "text": "When going from drafts to a final product, an important thing to verify is that all ideas flow nicely between each other and all relate to supporting the thesis. The writing may look finished, but you can benefit from reevaluating if all of the information is actually necesary, cohesive, and works towards proving your thesis. (Bonus Tip: if your ideas don't all relate to your thesis, consider updating the thesis instead of the essay!)",
       "quote": "Every paragraph should be:\n• Unified: All of the sentences in a single paragraph should be related to a single controlling idea (often expressed in the topic sentence of the paragraph).\n• Clearly related to the thesis: The sentences should all refer to the central idea, or thesis, of the paper (Rosen and Behrens 119).\n• Coherent: The sentences should be arranged in a logical manner and should follow a definite plan for development (Rosen and Behrens 119).\n...",
       "quoteSource": "Paragraphs, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Add Flavor with Punctuation",
+      "text": "Punctuation serves a purpose beyond just gramatical correctness. Explore interesting uses of punctuation to make your writing more playful and engaging!",
+      "quote": "Ultimately, though, we should care about punctuation not because of the rules but because of our readers. Writing that's well punctuated is more than just 'correct.' It's readable, informative, and often even engaging. In short, it's rhetorically effective.",
+      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     },
     {
       "num": 1,
@@ -152,6 +159,34 @@
       "text": "When you have a limited number of words, it may be helpful to practice being concise with your writing and to only make short, effective, and necessary sentences.",
       "quote": "Throughout your letter, remember the rule:\n• Be quick,\n• Be concise, and then\n• Be quiet.\n\nDon't make the editor or the general public wait to find out what you want to say. Tell them your key point at the beginning.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
+    },
+    {
+      "num": 1,
+      "title": "Take a Break Before Proofreading",
+      "text": "It can be tempting to treat proofreading as the immidiate next step after finalizing your essay, though this practice is not efficient. To productively proofread, consider taking a step away from your work to focus on other tasks as a palate cleanser. Then, when you return to proofread, you won't be influenced by your thought as a writer and only by your thoughts as a reader.",
+      "quote": "After working hard to develop the substance of a message, you may be weary of it and eager to turn it over to your instructor. If possible, however, you are wise to set the draft aside and work on another task before trying to edit it.",
+      "quoteSource": "Proofreading, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Explore Unordinary Proofreading Strategies",
+      "text": "Instead of simply reading your final product from start to finish, consider a more rigorous approach to proofreading! This could be reading the essay in reverse order (by paragraph or by sentence), pausing to evaluate after each sentence, using a seperate sheet of paper to follow along, or any strategy you think will make it harder for errors to slip through the cracks. Proofreading is your last chance at perfection, so don't be afraid of the extra effort.",
+      "quote": "There are three strategies you can use to help ignore the content of your message and concentrate solely on grammatical, mechanical, and formatting errors:\n• Try reading your document backwards: Begin with the last sentence and move upward toward the introduction\n• Place sheets of paper above and below each sentence in the document as you read through it\n• Place slashes between each sentence and then evaluate each one separately",
+      "quoteSource": "Proofreading, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Reevaluate Your Citations",
+      "text": "Evidence is a crutial component in many forms of writing, especially academic writing. To ensure your writing is as effective as it can be, make sure you emphasize the credibility of your cited materials and practice proper citation styling procedures.",
+      "quote": "[Look for] citation problems, such as\n• problems weaving sources into your argument or analysis\n• problems establishing the authority of sources\n• problems using the required citation style",
+      "quoteSource": "Editing, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Review for Inclusive Language",
+      "text": "Writers should expect their work to be consumed by readers of many different experiences and identities. To accomodate for this, consider how accessible your language may be to readers of diverse experiences. This is a courtious way of ensuring your reader feels confortable and is minimally distracted by any incluivity oversights.",
+      "quote": "[Look for] stylistic problems, such as ... inclusivity",
+      "quoteSource": "Editing, Writing Commons"
     }
   ],
   "\"Rules\" to be Broken": [
@@ -182,6 +217,13 @@
       "text": "Conventionally, \"writing\" relates to just the words on the page and is usually associated with articles, essays, novels, etc.. Though, depending on the medium, your expression of ideas as a writer doesn't need to be confined to just words on a page. Images/Figures or accompanying audio/video can be a helpful way to supplementally communicate your ideas in a more engaging format.",
       "quote": "...as more writers publish and distribute their work online, the more readers expect to find that information may be communicated in multiple modes, from text to visuals and audio.",
       "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
+    },
+    {
+      "num": 1,
+      "title": "Avoid Revising Early Drafts",
+      "text": "A lot of early academic writing processes promote the idea of perfecting early outlines and drafts to lead to a stronger final product. While some may find this helpful, in many writing contexts this just slows you down. Save your editing for more developed iterations, the early stages are about getting ideas down and exploring creative directions at the expense of perfection.",
+      "quote": "It has become commonplace for postsecondary writing instructors in the U.S. to suggest that writers not worry about editing during the early stages of a writing project. This can be sound advice because time spent editing could be wasted if what you're editing doesn't respond to the demands of the school assignment or isn't rhetorically sensitive.",
+      "quoteSource": "Editing, Writing Commons"
     }
   ],
   "Rhetorical Toolkit": [
