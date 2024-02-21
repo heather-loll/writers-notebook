@@ -41,6 +41,13 @@
       "text": "There is a lot of information out there that can't be found on Google Search. Consider visiting your school's or your local municipal library to research information from different mediums",
       "quote": "There are a wealth of online resources beyond Google available from the UCSC Library that contain scholarly sources and are often available full text online.",
       "quoteSource": "Library Research Step by Step, UCSC University Library"
+    },
+    {
+      "num": 1,
+      "title": "Consider Field Research",
+      "text": "Field research and library research are the two most common types of researching. Many essays are based on library research, where the writer gets their information through gathering and evaluating public resources. To break from this norm, consider taking the time to go make your own observations on the subject and gather your own information. This expands your work beyond a compilation of knowledge and now provides new unseen information.",
+      "quote": "Research involves acquiring facts, quotations, citations, or data from sources and personal observation. ... There are two basic methods of research:\n• Field research: going to the scene, interviews, legwork; primary materials, observations, and knowledge\n• Library, academic, or internet research: using secondary materials, including graphs, charts, and scholarly articles",
+      "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
     }
   ],
   "Building an Outline": [
@@ -85,6 +92,27 @@
       "text": "When breaking a topic down, it is easy to forget the context you already have as the writer. Usually, readers have a smaller understanding of the topics being discussed compared to the writer, and it is important to consider what context may need to be accounted for in your writing.",
       "quote": "If you are motivated enough to write a letter to a newspaper or magazine, the importance of your topic may seem clear to you. Remember, though, that the general public probably doesn't share your background or the interest. Explain the issue and its importance simply. Use plain language that most people will understand.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
+    },
+    {
+      "num": 1,
+      "title": "Brainstorm First!",
+      "text": "Sometimes, we don't have many ideas going in before we start outlining. To get around this hurdle, you may find success brainstorming ideas as a draft to your outline. This gets ideas going and allows you to find a creative direction without any commitments.",
+      "quote": "If you consciously take advantage of your natural thinking processes by gathering your brain's energies into a “storm,” you can transform these energies into written words or diagrams that will lead to lively, vibrant writing.",
+      "quoteSource": "Brainstorming, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Explore Freewriting Excersizes",
+      "text": "If you're struggling to get ideas flowing, you may find it productive to set a timer and start freewriting about the topic. This freewrite may not translate into a draft, but you may discover a new connection or approach that you didn't see before and it just gets you used to writing about the topic.",
+      "quote": "When you freewrite, you let your thoughts flow as they will, putting pen to paper and writing down whatever comes into your mind. You don't judge the quality of what you write and you don't worry about style or any surface-level issues, like spelling, grammar, or punctuation.",
+      "quoteSource": "Brainstorming, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Understand the Point You're Making",
+      "text": "Espesially in the Op-Ed format, it is crutial to fully understand exactly what you're trying to communicate in your writing. Before beginning an outline, consider what point you're making and why poeple should consider it. This practice can help make your writing more directed and effective.",
+      "quote": "Questions to Ask Yourself When Writing an Op-Ed or Column\n• Do I have a clear point to make?\n• What is it?\n• Who cares? (Writing with a particular audience in mind can inform how you execute your column. Who is it that you are trying to convince? Why are you targeting that specific reader?)\n• Is there substance to my argument?",
+      "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
     }
   ],
   "Writing Productive Drafts": [
@@ -129,6 +157,13 @@
       "text": "When writing a draft, always remember that you're approaching the topic from a different perspective than the reader. It is easy to assume something flows nicely or reads intuitively since you know your intentions as the writer. Make sure to reflect on the way you're writing to make sure it's universally sensible.",
       "quote": "When we read our own work, our brains tend to quickly see the patterns that we put on the page rather than the individual words. We see what we meant to write, and not necessarily what we actually wrote.",
       "quoteSource": "Proofreading, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Attempt to Challenge Reader's Assumptions",
+      "text": "If your topic is often a point of disagreement, consider approaching your writing from a persuasive angle. Consider those who's points of view may conflict with your own and pander your information to that group. This is an effective way to spark conversations and discourse through your writing",
+      "quote": "Challenge and engage audiences that do not necessarily agree with the writer's point of view.",
+      "quoteSource": "New York Times Opinion Guest Essays, New York Times Help Center"
     }
   ],
   "Polishing and Perfecting": [
@@ -224,6 +259,13 @@
       "text": "A lot of early academic writing processes promote the idea of perfecting early outlines and drafts to lead to a stronger final product. While some may find this helpful, in many writing contexts this just slows you down. Save your editing for more developed iterations, the early stages are about getting ideas down and exploring creative directions at the expense of perfection.",
       "quote": "It has become commonplace for postsecondary writing instructors in the U.S. to suggest that writers not worry about editing during the early stages of a writing project. This can be sound advice because time spent editing could be wasted if what you're editing doesn't respond to the demands of the school assignment or isn't rhetorically sensitive.",
       "quoteSource": "Editing, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Explore Diverse Opinions",
+      "text": "It is often difficult to express an unpopular opinion in your writing or to oppose the article you're analyzing. Sometimes, providing a unique perspective is the best contribution you can make and breaking that natural conformity can be important for your writing or reporting.",
+      "quote": "As Herbert Bayard Swope, an editor at the New York World newspaper in the 1920s who was a pioneer of the concept of an op-ed page, once said, 'Nothing is more interesting than opinion when opinion is interesting.' Or in the words of John B. Oakes, a long-ago predecessor of mine who drove the creation of Op-Ed, 'Diversity of opinion is the lifeblood of democracy. ... The minute we begin to insist that everyone think the same way we think, our democratic way of life is in danger.'",
+      "quoteSource": "Why The New York Times Is Retiring the Term 'Op-Ed', Kathleen Kingsbury"
     }
   ],
   "Rhetorical Toolkit": [
