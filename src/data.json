@@ -113,6 +113,13 @@
       "text": "Especially in the Op-Ed format, it is crucial to fully understand exactly what you're trying to communicate in your writing. Before beginning an outline, consider what point you're making and why people should consider it. This practice can help make your writing more directed and effective.",
       "quote": "Questions to Ask Yourself When Writing an Op-Ed or Column\n• Do I have a clear point to make?\n• What is it?\n• Who cares? (Writing with a particular audience in mind can inform how you execute your column. Who is it that you are trying to convince? Why are you targeting that specific reader?)\n• Is there substance to my argument?",
       "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
+    },
+    {
+      "num": 1,
+      "title": "Think About the Greater Conversation",
+      "text": "Specifically in academic writing, new papers serve as an addition to a larger academic conversation where new additions tie together loose ends and create new material to build off of. Understanding this perspective on academic papers may be a helpful influence to keep in mind while outlining to create a more benenficial paper.",
+      "quote": "... writing academic papers is about joining a conversation. You're contributing your own original thinking to some complex problem, be it interpretive, theoretical, or practical.",
+      "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
     }
   ],
   "Writing Productive Drafts": [
@@ -164,6 +171,13 @@
       "text": "If your topic is often a point of disagreement, consider approaching your writing from a persuasive angle. Consider those whose points of view may conflict with your own and pander your information to that group. This is an effective way to spark conversations and discourse through your writing",
       "quote": "Challenge and engage audiences that do not necessarily agree with the writer's point of view.",
       "quoteSource": "New York Times Opinion Guest Essays, New York Times Help Center"
+    },
+    {
+      "num": 1,
+      "title": "Focus on Retaining the Reader's Attention",
+      "text": "When writing, it is easy to forget that your interest in the topic and your take on it is often way greater than the reader's interest will be. As you write a draft, ensure that you're writing in an interesting and engaging way to appeal to a wider amount of interest-levels.",
+      "quote": "It's not enough to prove one's argument with irrefutable logic and overwhelming evidence; it's your responsibility to hold the reader's attention long enough for them to consider that evidence and logic.",
+      "quoteSource": "Exigency: What Makes My Message Indispensable to My Reader, Quentin Vieregge"
     }
   ],
   "Polishing and Perfecting": [
@@ -222,6 +236,13 @@
       "text": "Writers should expect their work to be consumed by readers of many different experiences and identities. To accommodate this, consider how accessible your language may be to readers of diverse experiences. This is a courteous way of ensuring your reader feels comfortable and is minimally distracted by any inclusivity oversights.",
       "quote": "[Look for] stylistic problems, such as ... inclusivity",
       "quoteSource": "Editing, Writing Commons"
+    },
+    {
+      "num": 1,
+      "title": "Revise for Style",
+      "text": "When writing, there is often many ways to communicate the same idea while still following proper grammatical conventions. When revising, pay attention to your writing style and ensure it remains consistent and purposeful throughout the work.",
+      "quote": "• Katelyn was concerned that Chloe worked late every night.\n• It concerned Katelyn that every night Chloe worked late.\n• Chloe worked late every night, and Katelyn was concerned.\n• Every night Chloe worked late, and that concerned Katelyn.\nEach of these sentences say the same thing, and the grammar is 'correct' in each, but the sentence an author chooses depends on the style she wishes to use.",
+      "quoteSource": "Grammar, Rhetoric, and Style; Craig Hulst"
     }
   ],
   "\"Rules\" to be Broken": [
@@ -266,6 +287,13 @@
       "text": "It is often difficult to express an unpopular opinion in your writing or to oppose the article you're analyzing. Sometimes, providing a unique perspective is the best contribution you can make and breaking that natural conformity can be important for your writing or reporting.",
       "quote": "As Herbert Bayard Swope, an editor at the New York World newspaper in the 1920s who was a pioneer of the concept of an op-ed page, once said, 'Nothing is more interesting than opinion when opinion is interesting.' Or in the words of John B. Oakes, a long-ago predecessor of mine who drove the creation of Op-Ed, 'Diversity of opinion is the lifeblood of democracy. ... The minute we begin to insist that everyone think the same way we think, our democratic way of life is in danger.'",
       "quoteSource": "Why The New York Times Is Retiring the Term 'Op-Ed', Kathleen Kingsbury"
+    },
+    {
+      "num": 1,
+      "title": "You May Cite Sources You Disagree With",
+      "text": "Typically, evidence is thought of as corroborating claims from other authors with credibility. While this may be a general rule of thumb, there can also be importance to citing claims you disagree with to demonstrate a counter-argument or highlight a flaw in that line of thinking.",
+      "quote": "... there are times when you should quote or paraphrase sources that you don't agree with or do not find particularly compelling. They may convey ideas and opinions that help explain and justify your own argument.",
+      "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
     }
   ],
   "Rhetorical Toolkit": [
@@ -310,6 +338,20 @@
       "text": "Sometimes, visuals are added to text for an artistic/aesthetic goal or as a form of visual explanation. Other times, they may exist as a form of persuasion and appeal. It is important to be able to identify this difference and ensure you understand your own intentions when adding visuals to your writing.",
       "quote": "A picture of a hamburger framed in an art museum does not exist to market hamburgers (though it might make you hungry!). However, a picture of a hamburger on an Instagram feed for a particular restaurant exists as a way to encourage visitors to come and dine at the restaurant.",
       "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
+    },
+    {
+      "num": 1,
+      "title": "Consider Your Persona",
+      "text": "A persona is a character or role you and your audience plays during the creation of a piece of writing. Consider how this may impact the way you write or how your work is perceived and adjust these rhetorical personas to match your goals.",
+      "quote": "Think of a persona as a mask that you can put on or take off as a writer. It's a 'think of yourself as' rhetorical move. ... Once you begin to consider your persona—and your reader's persona—you can start to form an opinion about why your paper would be important.",
+      "quoteSource": "Exigency: What Makes My Message Indispensable to My Reader, Quentin Vieregge"
+    },
+    {
+      "num": 1,
+      "title": "Grammar Conventions Have Rhetorical Applications",
+      "text": "While grammar conventions are typically considered rules to follow strictly for convention's sake, they can have an important impact on your rhetoric as a writer. Arranging words and ideas in understandable formats is the heart of the intersection between grammar and rhetoric and practicing this will allow you to communicate your ideas much more effectively and compellingly.",
+      "quote": "By arranging the words according to what those listening to me expect from my grammar, my audience would know exactly what I meant. And this awareness of what the audience needs is the heart of what I am talking about—that grammar has a rhetorical use.",
+      "quoteSource": "Grammar, Rhetoric, and Style; Craig Hulst"
     }
   ]
 }
