@@ -2,6 +2,13 @@
   "Researching & Evaluating Sources": [
     {
       "num": 1,
+      "title": "Research a Topic You're Interested In",
+      "text": "If your goal is to write a motivated and engaging peice of writing, the first step is to find a topic that interests you! Readers can tell when the writer genuinely cares about the topic, and it will make the process much easier if you spend more on the brainstorming phase to find a good topic.",
+      "quote": "Find a subject you care about and which you in your heart feel others should care about. It is this genuine caring, and not your games with language, which will be the most compelling and seductive element in your style.",
+      "quoteSource": "How to Write With Style, Kurt Vonnegut"
+    },
+    {
+      "num": 1,
       "title": "Avoid Referencing Ambiguous Statements",
       "text": "If a source makes a claim that is entirely up to interpretation, it likely does not serve a substantial purpose as evidence. In these instances, it's best to state what would otherwise be your analysis without the empty reference or find a different quote that substantiates your claim.",
       "quote": "For example, 'We should all support reproductive justice.' There isn't one widely accepted definition of reproductive justice. [Readers] may be wondering if it means access to abortion across racial and economic groups or access to birth control or sex education or some combination of all of those. ... What is it exactly that the argument is asking us to support?",
@@ -243,6 +250,27 @@
       "text": "When writing, there is often many ways to communicate the same idea while still following proper grammatical conventions. When revising, pay attention to your writing style and ensure it remains consistent and purposeful throughout the work.",
       "quote": "• Katelyn was concerned that Chloe worked late every night.\n• It concerned Katelyn that every night Chloe worked late.\n• Chloe worked late every night, and Katelyn was concerned.\n• Every night Chloe worked late, and that concerned Katelyn.\nEach of these sentences say the same thing, and the grammar is 'correct' in each, but the sentence an author chooses depends on the style she wishes to use.",
       "quoteSource": "Grammar, Rhetoric, and Style; Craig Hulst"
+    },
+    {
+      "num": 1,
+      "title": "Consider Different Formatting When Proofreading",
+      "text": "As you edit and proofread your writing, you may benefit from formatting your paper with different sizes, spacing, line-heights, or even colors to gain a new visual perspective on the text to catch errors.",
+      "quote": "Altering the size, spacing, color, or style of the text may trick your brain into thinking it's seeing an unfamiliar document, and that can help you get a different perspective on what you've written.",
+      "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Review For Structure",
+      "text": "Revisiting the structure of your writing is an important step in the editing process. Try to identify if your writing has a clear introduction, conclusion, and thesis statement. Additionally, ensure that all of the information discussed in the writing ties back into that thesis and has cohesive transitions between paragraphs.",
+      "quote": "Does your paper have an appropriate introduction and conclusion? Is your thesis clearly stated in your introduction? Is it clear how each paragraph in the body of your paper is related to your thesis? Are the paragraphs arranged in a logical sequence? Have you made clear transitions between paragraphs?",
+      "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
+    },
+    {
+      "num": 1,
+      "title": "Beware of Grammar Checkers",
+      "text": "Grammar checkers are powerful tools that can catch a lot of mistakes, but unfortunately they are not perfect. Before blindly accepting suggestions, review them to understand what it's trying to improve and validate if the suggestion is right for your writing. Additionally, grammar checkers cannot catch everything and they are not a sufficient replacement for thorough proofreading.",
+      "quote": "These programs work with a limited number of rules, so they can't identify every error and often make mistakes. They also fail to give thorough explanations to help you understand why a sentence should be revised. You may want to use a grammar checker to help you identify potential run-on sentences or too-frequent use of the passive voice, but you need to be able to evaluate the feedback it provides.",
+      "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
     }
   ],
   "\"Rules\" to be Broken": [
@@ -294,6 +322,13 @@
       "text": "Typically, evidence is thought of as corroborating claims from other authors with credibility. While this may be a general rule of thumb, there can also be importance to citing claims you disagree with to demonstrate a counter-argument or highlight a flaw in that line of thinking.",
       "quote": "... there are times when you should quote or paraphrase sources that you don't agree with or do not find particularly compelling. They may convey ideas and opinions that help explain and justify your own argument.",
       "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
+    },
+    {
+      "num": 1,
+      "title": "Share More About Yourself",
+      "text": "In many formal and technical writing situations, writers are encouraged to share very little about who they are as to not distract from their discussion. This is a stylistic choice, but you can add an element of personal connection to your writing by showing more humanity in your approach.",
+      "quote": "Newspaper reporters and technical writers are trained to reveal almost nothing about themselves in their writings. This makes them freaks in the world of writers, since almost all of the other ink-stained wretches in that world reveal a lot about themselves to readers.",
+      "quoteSource": "How to Write With Style, Kurt Vonnegut"
     }
   ],
   "Rhetorical Toolkit": [
@@ -352,6 +387,13 @@
       "text": "A persona is a character or role you and your audience plays during the creation of a piece of writing. Consider how this may impact the way you write or how your work is perceived and adjust these rhetorical personas to match your goals.",
       "quote": "Think of a persona as a mask that you can put on or take off as a writer. It's a 'think of yourself as' rhetorical move. ... Once you begin to consider your persona—and your reader's persona—you can start to form an opinion about why your paper would be important.",
       "quoteSource": "Exigency: What Makes My Message Indispensable to My Reader, Quentin Vieregge"
+    },
+    {
+      "num": 1,
+      "title": "Simple Ethos Through Personal Connection",
+      "text": "Ethos is an appeal that establishes credibility and trust with the reader. This is often thought of as establishing credentials or experience, but you can achieve a similar effect just by connecting with the reader. By establishing personality in your writing, readers may be more inclined to trust you since you've established that connection and they've learned what qualities apply to you as a writer.",
+      "quote": "These revelations tell us as readers what sort of person it is with whom we are spending time. Dws the writer sound ignorant or informed, stupid or bright, crooked or honest, humorless or playful - ? And on and on.",
+      "quoteSource": "How to Write With Style, Kurt Vonnegut"
     }
   ]
 }
