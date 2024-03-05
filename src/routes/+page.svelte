@@ -81,6 +81,9 @@
       Page not working? <a href="/raw" class="text-primary-600 hover:underline"
         >View Raw Data</a
       >.
+      <div class="text-sm text-gray-500 tracking-tight">
+        This page requires JavaScript to function properly.
+      </div>
     </div></noscript
   >
 
@@ -98,4 +101,12 @@
     tabindex={$modalIsOpen ? -1 : 0}>View code on GitHub</a
   >!<br />Difficulty viewing this page?
   <a href="/raw" class="text-primary-600 hover:underline">View Raw Data</a>.
+  <br />Made with
+  <a href="https://svelte.dev/" class="text-primary-600 hover:underline"
+    >SvelteJS</a
+  >
+  and
+  <a href="https://tailwindcss.com/" class="text-primary-600 hover:underline"
+    >TailwindCSS</a
+  >.
 </footer>
