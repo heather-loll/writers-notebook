@@ -40,12 +40,12 @@
           class="w-16 h-16 fill-primary-500"
           viewBox="0 0 24 24"
         >
+          <path d="M7 5h14v2H7z" />
+          <circle cx="4" cy="6" r="1.5" />
           <path
-            d="M8 18H4V6h4zm6 0h-4V6h4zm6 0h-4V6h4z"
-            class="fill-secondary-500/30"
-          /><path
-            d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2M8 18H4V6h4zm6 0h-4V6h4zm6 0h-4V6h4z"
+            d="M7 11h14v2H7zm0 6h14v2H7zm-3 2.5c.82 0 1.5-.68 1.5-1.5s-.67-1.5-1.5-1.5-1.5.68-1.5 1.5.68 1.5 1.5 1.5"
           />
+          <circle cx="4" cy="12" r="1.5" />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
           Building an Outline
@@ -62,7 +62,11 @@
           viewBox="0 0 24 24"
         >
           <path
-            d="M3 10h11v2H3zm0-2h11V6H3zm0 8h7v-2H3zm15.01-3.13.71-.71a.996.996 0 0 1 1.41 0l.71.71c.39.39.39 1.02 0 1.41l-.71.71zm-.71.71-5.3 5.3V21h2.12l5.3-5.3z"
+            d="M14.17 5 19 9.83V19H5V5zM7 15h10v2H7zm0-4h10v2H7zm0-4h7v2H7z"
+            class="fill-secondary-500/30"
+          />
+          <path
+            d="M14.17 5 19 9.83V19H5V5zm0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V9.83c0-.53-.21-1.04-.59-1.41l-4.83-4.83c-.37-.38-.88-.59-1.41-.59M7 15h10v2H7zm0-4h10v2H7zm0-4h7v2H7z"
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
@@ -101,7 +105,7 @@
           viewBox="0 0 24 24"
         >
           <path
-            d="m16 6 2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"
+            d="M14 10H3v2h11zm0-4H3v2h11zM3 16h7v-2H3zm11.41 6L17 19.41 19.59 22 21 20.59 18.41 18 21 15.41 19.59 14 17 16.59 14.41 14 13 15.41 15.59 18 13 20.59z"
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
