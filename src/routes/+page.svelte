@@ -113,3 +113,14 @@
     >TailwindCSS</a
   >.
 </footer>
+
+<button
+  on:click={() => {
+    document.documentElement.scrollTo(0, 0);
+  }}
+  class="fixed bottom-6 right-6 p-3.5 border-2 border-primary-500 bg-secondary-300/20 hover:bg-secondary-300/50 rounded-full backdrop-blur-md transition-colors"
+>
+  <svg aria-hidden="true" class="w-6 h-6 fill-primary-500" viewBox="0 0 24 24">
+    <path d="m4 12 1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8z" />
+  </svg>
+</button>
