@@ -23,6 +23,13 @@
     },
     {
       "num": 1,
+      "title": "See the Big and the Small Picture",
+      "text": "Important information about a piece of writing can be found everywhere within it! To fully understand a source, it is helpful to analyze on a macro scale (i.e. structure, logical flow, pacing, purpose) and a micro scale (i.e. diction, syntax, use of figurative language, grammar). This helps you see the big picture and can make it easier to analyze in your own writing.",
+      "quote": "The goal as you read like a writer is to locate what you believe are the most important writerly choices represented in the text-choices as large as the overall structure or as small as a single word used only once.",
+      "quoteSource": "How to Read Like a Writer, Mike Bunn"
+    },
+    {
+      "num": 1,
       "title": "Convey the Level of Endorsement",
       "text": "When presenting someone's claim, instead of stating that they \"said\" it, try being more descriptive of their opinion before providing the quote. This could be with language such as \"They praise\" or \"They criticize\".",
       "quote": "If the argument's main purpose is to convince us that something is bad or good or of mixed value, we can signal that evaluation to the reader right off the bat. ...We can ask ourselves how many stars the argument is giving the thing it evaluates. A five-star rating 'celebrates' or 'applauds' its subject while a four-star rating might be said to 'endorse it with some reservations.'",
@@ -37,13 +44,6 @@
     },
     {
       "num": 1,
-      "title": "See the Big and the Small Picture",
-      "text": "Important information about a piece of writing can be found everywhere within it! To fully understand a source, it is helpful to analyze on a macro scale (i.e. structure, logical flow, pacing, purpose) and a micro scale (i.e. diction, syntax, use of figurative language, grammar). This helps you see the big picture and can make it easier to analyze in your own writing.",
-      "quote": "The goal as you read like a writer is to locate what you believe are the most important writerly choices represented in the text-choices as large as the overall structure or as small as a single word used only once.",
-      "quoteSource": "How to Read Like a Writer, Mike Bunn"
-    },
-    {
-      "num": 1,
       "title": "Explore Libraries!",
       "text": "There is a lot of information out there that can't be found on Google Search. Consider visiting your school's or your local municipal library to research information from different mediums",
       "quote": "There are a wealth of online resources beyond Google available from the UCSC Library that contain scholarly sources and are often available full text online.",
@@ -51,17 +51,17 @@
     },
     {
       "num": 1,
-      "title": "Consider Field Research",
-      "text": "Field research and library research are the two most common types of research. Many essays are based on library research, where the writer gets their information through gathering and evaluating public resources. To break from this norm, consider taking the time to go make your own observations on the subject and gather your own information. This expands your work beyond a compilation of knowledge and now provides new unseen information.",
-      "quote": "Research involves acquiring facts, quotations, citations, or data from sources and personal observation. ... There are two basic methods of research:\n• Field research: going to the scene, interviews, legwork; primary materials, observations, and knowledge\n• Library, academic, or internet research: using secondary materials, including graphs, charts, and scholarly articles",
-      "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
-    },
-    {
-      "num": 1,
       "title": "Different Mediums Require Different Research",
       "text": "Depending on what you're writing, your research process may look vastly different. For example, a poem might require no research, an essay may require a moderate amount of research, and a research paper will require a lot of research. You can evaluate your writing medium to estimate how much research your work may require.",
       "quote": "The practice of writing a poem may require no research; the practice of completing a research project in anthropology may require research in the field, and research in the library as the project is being drafted.",
       "quoteSource": "Learning To Write Effectively Requires Different Kinds Of Practice, Time, And Effort; Kathleen Blake Yancey"
+    },
+    {
+      "num": 1,
+      "title": "Consider Field Research",
+      "text": "Field research and library research are the two most common types of research. Many essays are based on library research, where the writer gets their information through gathering and evaluating public resources. To break from this norm, consider taking the time to go make your own observations on the subject and gather your own information. This expands your work beyond a compilation of knowledge and now provides new unseen information.",
+      "quote": "Research involves acquiring facts, quotations, citations, or data from sources and personal observation. ... There are two basic methods of research:\n• Field research: going to the scene, interviews, legwork; primary materials, observations, and knowledge\n• Library, academic, or internet research: using secondary materials, including graphs, charts, and scholarly articles",
+      "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
     }
   ],
   "Building an Outline": [
@@ -130,13 +130,6 @@
     },
     {
       "num": 1,
-      "title": "Think About the Greater Conversation",
-      "text": "Specifically in academic writing, new papers serve as an addition to a larger academic conversation where new additions tie together loose ends and create new material to build off of. Understanding this perspective on academic papers may be a helpful influence to keep in mind while outlining to create a more benenficial paper.",
-      "quote": "... writing academic papers is about joining a conversation. You're contributing your own original thinking to some complex problem, be it interpretive, theoretical, or practical.",
-      "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
-    },
-    {
-      "num": 1,
       "title": "Recall Previous \"Failures\"",
       "text": "As you begin a new outline, think back on the criticisms you've received towards previous works you've finished. While some could consider these \"failures\", failure is an opportunity for growth and new projects are opportunities to explore that growth. The only way to succeed from failure is to execute on those weakpoints.",
       "quote": "One of the most important things students can learn is that failure is an opportunity for growth.",
@@ -148,6 +141,13 @@
       "text": "Everyone has their own way of outlining, but for a more creative approach, consider drawing an illustration of your essay to serve as an outline or brainstorming excercise! This can get ideas flowing and help you see the assignment from a new perspective.",
       "quote": "... using illustrations to develop an idea will work well in many different writing contexts for many different purposes.",
       "quoteSource": "All Writers Have More To Learn, Shirley Rose"
+    },
+    {
+      "num": 1,
+      "title": "Think About the Greater Conversation",
+      "text": "Specifically in academic writing, new papers serve as an addition to a larger academic conversation where new additions tie together loose ends and create new material to build off of. Understanding this perspective on academic papers may be a helpful influence to keep in mind while outlining to create a more benenficial paper.",
+      "quote": "... writing academic papers is about joining a conversation. You're contributing your own original thinking to some complex problem, be it interpretive, theoretical, or practical.",
+      "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
     }
   ],
   "Writing Productive Drafts": [
@@ -246,16 +246,16 @@
     },
     {
       "num": 1,
-      "title": "Take a Break Before Proofreading",
-      "text": "It can be tempting to treat proofreading as the immediate next step after finalizing your essay, though this practice is not efficient. To productively proofread, consider taking a step away from your work to focus on other tasks as a palate cleanser. Then, when you return to proofreading, you won't be influenced by your thoughts as a writer and only by your thoughts as a reader.",
-      "quote": "After working hard to develop the substance of a message, you may be weary of it and eager to turn it over to your instructor. If possible, however, you are wise to set the draft aside and work on another task before trying to edit it.",
+      "title": "Explore Unordinary Proofreading Strategies",
+      "text": "Instead of simply reading your final product from start to finish, consider a more rigorous approach to proofreading! This could be reading the essay in reverse order (by paragraph or by sentence), pausing to evaluate after each sentence, using a separate sheet of paper to follow along, or any strategy you think will make it harder for errors to slip through the cracks. Proofreading is your last chance at perfection, so don't be afraid of the extra effort.",
+      "quote": "There are three strategies you can use to help ignore the content of your message and concentrate solely on grammatical, mechanical, and formatting errors:\n• Try reading your document backwards: Begin with the last sentence and move upward toward the introduction\n• Place sheets of paper above and below each sentence in the document as you read through it\n• Place slashes between each sentence and then evaluate each one separately",
       "quoteSource": "Proofreading, Writing Commons"
     },
     {
       "num": 1,
-      "title": "Explore Unordinary Proofreading Strategies",
-      "text": "Instead of simply reading your final product from start to finish, consider a more rigorous approach to proofreading! This could be reading the essay in reverse order (by paragraph or by sentence), pausing to evaluate after each sentence, using a separate sheet of paper to follow along, or any strategy you think will make it harder for errors to slip through the cracks. Proofreading is your last chance at perfection, so don't be afraid of the extra effort.",
-      "quote": "There are three strategies you can use to help ignore the content of your message and concentrate solely on grammatical, mechanical, and formatting errors:\n• Try reading your document backwards: Begin with the last sentence and move upward toward the introduction\n• Place sheets of paper above and below each sentence in the document as you read through it\n• Place slashes between each sentence and then evaluate each one separately",
+      "title": "Take a Break Before Proofreading",
+      "text": "It can be tempting to treat proofreading as the immediate next step after finalizing your essay, though this practice is not efficient. To productively proofread, consider taking a step away from your work to focus on other tasks as a palate cleanser. Then, when you return to proofreading, you won't be influenced by your thoughts as a writer and only by your thoughts as a reader.",
+      "quote": "After working hard to develop the substance of a message, you may be weary of it and eager to turn it over to your instructor. If possible, however, you are wise to set the draft aside and work on another task before trying to edit it.",
       "quoteSource": "Proofreading, Writing Commons"
     },
     {
@@ -281,9 +281,9 @@
     },
     {
       "num": 1,
-      "title": "Consider Different Formatting When Proofreading",
-      "text": "As you edit and proofread your writing, you may benefit from formatting your paper with different sizes, spacing, line-heights, or even colors to gain a new visual perspective on the text to catch errors.",
-      "quote": "Altering the size, spacing, color, or style of the text may trick your brain into thinking it's seeing an unfamiliar document, and that can help you get a different perspective on what you've written.",
+      "title": "Beware of Grammar Checkers",
+      "text": "Grammar checkers are powerful tools that can catch a lot of mistakes, but unfortunately they are not perfect. Before blindly accepting suggestions, review them to understand what it's trying to improve and validate if the suggestion is right for your writing. Additionally, grammar checkers cannot catch everything and they are not a sufficient replacement for thorough proofreading.",
+      "quote": "These programs work with a limited number of rules, so they can't identify every error and often make mistakes. They also fail to give thorough explanations to help you understand why a sentence should be revised. You may want to use a grammar checker to help you identify potential run-on sentences or too-frequent use of the passive voice, but you need to be able to evaluate the feedback it provides.",
       "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
     },
     {
@@ -295,9 +295,9 @@
     },
     {
       "num": 1,
-      "title": "Beware of Grammar Checkers",
-      "text": "Grammar checkers are powerful tools that can catch a lot of mistakes, but unfortunately they are not perfect. Before blindly accepting suggestions, review them to understand what it's trying to improve and validate if the suggestion is right for your writing. Additionally, grammar checkers cannot catch everything and they are not a sufficient replacement for thorough proofreading.",
-      "quote": "These programs work with a limited number of rules, so they can't identify every error and often make mistakes. They also fail to give thorough explanations to help you understand why a sentence should be revised. You may want to use a grammar checker to help you identify potential run-on sentences or too-frequent use of the passive voice, but you need to be able to evaluate the feedback it provides.",
+      "title": "Consider Different Formatting When Proofreading",
+      "text": "As you edit and proofread your writing, you may benefit from formatting your paper with different sizes, spacing, line-heights, or even colors to gain a new visual perspective on the text to catch errors.",
+      "quote": "Altering the size, spacing, color, or style of the text may trick your brain into thinking it's seeing an unfamiliar document, and that can help you get a different perspective on what you've written.",
       "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
     }
   ],
@@ -383,17 +383,17 @@
     },
     {
       "num": 1,
-      "title": "Punctuation Alters Voice and Tone",
-      "text": "A writer's use of punctuation can influence the tone and voice of the writing. Punctuation can imply sophistication such as with the use of em-dashes which are typically not used in casual settings. It could also imply a laid-back tone such as with an ellipsis at the end of sentences (i.e. \"ummm... not sure about that..?\"). The use of punctuation can range pretty heavily between mediums such as casual texting to scholarly papers, so it is important to consider how your punctuation comes off.",
-      "quote": "...punctuation, by conveying the tone of an author's voice, can also illustrate the context of a situation being described",
-      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
-    },
-    {
-      "num": 1,
       "title": "Differentiate Pathos from Bias",
       "text": "Appeals to emotion can be a strong way to communicate an actionable message, but be cautious of the way you communicate in this way. If it's too frontal, it may give off a feeling of bias and guilt-tripping rather than persuasion.",
       "quote": "Appealing to the reader's emotions (using pathos) can be very effective at helping the reader connect to the author's main point, but when we select sources for research projects, we must make sure that an author's appeal to emotion is not a sign of bias. Biased sources may cause readers to feel guilty about holding certain viewpoints or engaging in certain activities ...",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
+    },
+    {
+      "num": 1,
+      "title": "Punctuation Alters Voice and Tone",
+      "text": "A writer's use of punctuation can influence the tone and voice of the writing. Punctuation can imply sophistication such as with the use of em-dashes which are typically not used in casual settings. It could also imply a laid-back tone such as with an ellipsis at the end of sentences (i.e. \"ummm... not sure about that..?\"). The use of punctuation can range pretty heavily between mediums such as casual texting to scholarly papers, so it is important to consider how your punctuation comes off.",
+      "quote": "...punctuation, by conveying the tone of an author's voice, can also illustrate the context of a situation being described",
+      "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     },
     {
       "num": 1,
