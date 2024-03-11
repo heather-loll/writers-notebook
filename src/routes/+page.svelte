@@ -2,6 +2,7 @@
   import Category from "./Category.svelte";
   import { modalIsOpen } from "$lib/stores";
   import jsonData from "../data.json";
+  import TableOfContents from "./TableOfContents.svelte";
 
   let categories: CategorizedTips = [];
 
@@ -86,6 +87,8 @@
       </div>
     </div></noscript
   >
+
+  <TableOfContents />
 
   <div class="container mx-auto px-4 md:px-12 lg:px-24 2xl:px-32">
     {#each categories as category}

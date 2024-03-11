@@ -6,7 +6,7 @@
   export let categoryName: string;
 </script>
 
-<div class="pb-6">
+<div class="pb-6" id={encodeURIComponent(categoryName)}>
   <h2
     class="px-4 font-black text-4xl uppercase text-primary-400 drop-shadow-xl"
   >
