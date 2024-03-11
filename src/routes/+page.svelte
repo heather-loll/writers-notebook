@@ -103,14 +103,22 @@
     class="text-primary-600 hover:underline"
     tabindex={$modalIsOpen ? -1 : 0}>View code on GitHub</a
   >!<br />Difficulty viewing this page?
-  <a href="/raw" class="text-primary-600 hover:underline">View Raw Data</a>.
+  <a
+    href="/raw"
+    tabindex={$modalIsOpen ? -1 : 0}
+    class="text-primary-600 hover:underline">View Raw Data</a
+  >.
   <br />Made with
-  <a href="https://svelte.dev/" class="text-primary-600 hover:underline"
-    >SvelteJS</a
+  <a
+    href="https://svelte.dev/"
+    tabindex={$modalIsOpen ? -1 : 0}
+    class="text-primary-600 hover:underline">SvelteJS</a
   >
   and
-  <a href="https://tailwindcss.com/" class="text-primary-600 hover:underline"
-    >TailwindCSS</a
+  <a
+    href="https://tailwindcss.com/"
+    tabindex={$modalIsOpen ? -1 : 0}
+    class="text-primary-600 hover:underline">TailwindCSS</a
   >.
 </footer>
 
@@ -118,6 +126,7 @@
   on:click={() => {
     document.documentElement.scrollTo(0, 0);
   }}
+  tabindex={$modalIsOpen ? -1 : 0}
   class="fixed bottom-6 right-6 p-3.5 border-2 border-primary-500 bg-secondary-300/20 hover:bg-secondary-300/50 rounded-full backdrop-blur-md transition-colors"
 >
   <svg aria-hidden="true" class="w-6 h-6 fill-primary-500" viewBox="0 0 24 24">

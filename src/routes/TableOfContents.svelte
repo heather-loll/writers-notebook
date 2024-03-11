@@ -1,3 +1,7 @@
+<script lang="ts">
+  import { modalIsOpen } from "$lib/stores";
+</script>
+
 <div class="container mx-auto px-4 md:px-12 lg:px-24 2xl:px-32">
   <div class="p-8 bg-white rounded-xl mb-16 shadow-xl mx-4">
     <h2 class="text-center font-black text-3xl pb-6">Table of Contents</h2>
@@ -7,6 +11,7 @@
       <a
         href="#Researching%20%26%20Evaluating%20Sources"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
@@ -28,6 +33,7 @@
       <a
         href="#Building%20an%20Outline"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
@@ -48,6 +54,7 @@
       <a
         href="#Writing%20Productive%20Drafts"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
@@ -65,6 +72,7 @@
       <a
         href="#Polishing%20and%20Perfecting"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
@@ -85,6 +93,7 @@
       <a
         href="#%22Rules%22%20to%20be%20Broken"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
@@ -102,6 +111,7 @@
       <a
         href="#Rhetorical%20Toolkit"
         class="flex flex-col items-center p-8 bg-white hover:bg-secondary-300/30 border-2 border-gray-200 hover:border-primary-500 rounded-xl transition-colors motion-reduce:duration-0"
+        tabindex={$modalIsOpen ? -1 : 0}
       >
         <svg
           aria-hidden="true"
