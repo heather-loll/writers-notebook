@@ -8,56 +8,56 @@
       "quoteSource": "How to Write With Style, Kurt Vonnegut"
     },
     {
-      "num": 1,
+      "num": 2,
       "title": "Avoid Referencing Ambiguous Statements",
       "text": "If a source makes a claim that is entirely up to interpretation, it likely does not serve a substantial purpose as evidence. In these instances, it's best to state what would otherwise be your analysis without the empty reference or find a different quote that substantiates your claim.",
       "quote": "For example, 'We should all support reproductive justice.' There isn't one widely accepted definition of reproductive justice. [Readers] may be wondering if it means access to abortion across racial and economic groups or access to birth control or sex education or some combination of all of those. ... What is it exactly that the argument is asking us to support?",
       "quoteSource": "Assessing the Strength of an Argument, Anna Mills"
     },
     {
-      "num": 1,
+      "num": 3,
       "title": "Beware of Logical Gaps",
       "text": "Some arguments may contain a logical gap hidden through intentional vagueness. When evaluating an argument, always apply some skepticism to identify that its reasoning is actually logical and doesn't just sound sensible from the surface.",
       "quote": "'No medical professional should be allowed to intentionally harm a human. What is a fetus if not human?'\n\n...The above argument does not hold up because it depends on a sleight of hand, a shift from the idea of a human, meaning a human being, to the adjective 'human,' which can apply to anything with human cells and DNA, including hair and toenails.",
       "quoteSource": "Assessing the Strength of an Argument, Anna Mills"
     },
     {
-      "num": 1,
+      "num": 4,
       "title": "See the Big and the Small Picture",
       "text": "Important information about a piece of writing can be found everywhere within it! To fully understand a source, it is helpful to analyze on a macro scale (i.e. structure, logical flow, pacing, purpose) and a micro scale (i.e. diction, syntax, use of figurative language, grammar). This helps you see the big picture and can make it easier to analyze in your own writing.",
       "quote": "The goal as you read like a writer is to locate what you believe are the most important writerly choices represented in the text-choices as large as the overall structure or as small as a single word used only once.",
       "quoteSource": "How to Read Like a Writer, Mike Bunn"
     },
     {
-      "num": 1,
+      "num": 5,
       "title": "Convey the Level of Endorsement",
       "text": "When presenting someone's claim, instead of stating that they \"said\" it, try being more descriptive of their opinion before providing the quote. This could be with language such as \"They praise\" or \"They criticize\".",
       "quote": "If the argument's main purpose is to convince us that something is bad or good or of mixed value, we can signal that evaluation to the reader right off the bat. ...We can ask ourselves how many stars the argument is giving the thing it evaluates. A five-star rating 'celebrates' or 'applauds' its subject while a four-star rating might be said to 'endorse it with some reservations.'",
       "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
     },
     {
-      "num": 1,
+      "num": 6,
       "title": "Read Like A Writer",
       "text": "When analyzing a source, consider the perspective of the writer and evaluate the different decisions that went into writing the text. No one understands the author's perspective better than the author themself, so it can be valuable to try to see their perspective and understand the different choices they made.",
       "quote": "When you Read Like a Writer (RLW) you work to identify some of the choices the author made so that you can better understand how such choices might arise in your own writing.",
       "quoteSource": "How to Read Like a Writer, Mike Bunn"
     },
     {
-      "num": 1,
+      "num": 7,
       "title": "Explore Libraries!",
       "text": "There is a lot of information out there that can't be found on Google Search. Consider visiting your school's or your local municipal library to research information from different mediums",
       "quote": "There are a wealth of online resources beyond Google available from the UCSC Library that contain scholarly sources and are often available full text online.",
       "quoteSource": "Library Research Step by Step, UCSC University Library"
     },
     {
-      "num": 1,
+      "num": 8,
       "title": "Different Mediums Require Different Research",
       "text": "Depending on what you're writing, your research process may look vastly different. For example, a poem might require no research, an essay may require a moderate amount of research, and a research paper will require a lot of research. You can evaluate your writing medium to estimate how much research your work may require.",
       "quote": "The practice of writing a poem may require no research; the practice of completing a research project in anthropology may require research in the field, and research in the library as the project is being drafted.",
       "quoteSource": "Learning To Write Effectively Requires Different Kinds Of Practice, Time, And Effort; Kathleen Blake Yancey"
     },
     {
-      "num": 1,
+      "num": 9,
       "title": "Consider Field Research",
       "text": "Field research and library research are the two most common types of research. Many essays are based on library research, where the writer gets their information through gathering and evaluating public resources. To break from this norm, consider taking the time to go make your own observations on the subject and gather your own information. This expands your work beyond a compilation of knowledge and now provides new unseen information.",
       "quote": "Research involves acquiring facts, quotations, citations, or data from sources and personal observation. ... There are two basic methods of research:\n• Field research: going to the scene, interviews, legwork; primary materials, observations, and knowledge\n• Library, academic, or internet research: using secondary materials, including graphs, charts, and scholarly articles",
@@ -66,84 +66,84 @@
   ],
   "Building an Outline": [
     {
-      "num": 1,
+      "num": 10,
       "title": "Make an Argument Map!",
       "text": "An effective way to visualize an argument is to make a map or similar diagram. In this method, you identify a key concept for the center of the map, and then branch off of it for each subclaim. Those branching nodes can have further branches for things such as evidence and analysis. You can ultimately use this to construct a breakdown of the argument.",
       "quote": "The argument map can guide us as we write the summary. To make the map, we have already had to choose what to leave out and what to emphasize. We have already shown what role each claim plays in the overall argument. Now, instead of colors and arrows and labels like 'claim' and 'reason,' we will use strategic phrases to show how the parts fit together.",
       "quoteSource": "Summary of Another Writer's Argumnet, Anna Mills"
     },
     {
-      "num": 1,
+      "num": 11,
       "title": "Order of Subclaims Matters",
       "text": "When outlining the essay, consider what order each subclaim should be presented in. It is rare for the order to be completely irrelevant, so consider if they have a natural chronology or can build off of each other if presented in a thoughtful order.",
       "quote": "There may be multiple ways to order your topic sentences and units of support for the same thesis and you, as the writer, need to identify an order that makes sense, given your purpose, content, and reading audience.",
       "quoteSource": "Writing the Essay Draft, Susan Oaks"
     },
     {
-      "num": 1,
+      "num": 12,
       "title": "Merge Styles to Create New Ones",
       "text": "It can often be difficult to find a unique voice or approach in writing. A common way to do this may be by compiling several, perhaps vastly different, styles into one. This, in essence, is the creative process and can lead to interesting and distinct styles.",
       "quote": "Data, by combining two “radically different styles,” has created his own style. Without the imitation and interpretation of those two, he could not and would not have generated his own style.",
       "quoteSource": "The Evolution of Imitation: Building Your Style, Craig A. Meyer"
     },
     {
-      "num": 1,
+      "num": 13,
       "title": "Consider Information Hierarchy",
       "text": "For concise or persuasive text, you may want to convey information swiftly to the reader. Often, readers will not read a piece in its entirety, or will lose focus as they read. To combat this, consider putting the most important and actionable information at the start of the work for maximal effect.",
       "quote": "Keep the most important information at the beginning of your sheet. Let your audience know what the issue is and what action you would like them to do. Otherwise, they may decide to quit reading before they know what you want them to do!",
       "quoteSource": "Fact Sheet Handout, Kent State"
     },
     {
-      "num": 1,
+      "num": 14,
       "title": "Understand the Assignment Before Getting Started",
       "text": "Before you start outlining, be sure that you fully understand the expectations of the assignment to ensure you cover all of the key information needed. If the writing is not done for a clearly outlined assignment, consider what the hypothetical assignment would be to make sure you're considering what information and research is required to make an effective outline.",
       "quote": "Understand the assignment\nIs it an assigned topic or can it be one of your own choosing?\nHow many pages should it be?\nAre you required to use certain types of materials, such as scholarly articles?",
       "quoteSource": "Library Research Step by Step, UCSC University Library"
     },
     {
-      "num": 1,
+      "num": 15,
       "title": "Remember to Provide Background Information",
       "text": "When breaking a topic down, it is easy to forget the context you already have as the writer. Usually, readers have a smaller understanding of the topics being discussed compared to the writer, and it is important to consider what context may need to be accounted for in your writing.",
       "quote": "If you are motivated enough to write a letter to a newspaper or magazine, the importance of your topic may seem clear to you. Remember, though, that the general public probably doesn't share your background or the interest. Explain the issue and its importance simply. Use plain language that most people will understand.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     },
     {
-      "num": 1,
+      "num": 16,
       "title": "Brainstorm First!",
       "text": "Sometimes, we don't have many ideas going in before we start outlining. To get around this hurdle, you may find success in brainstorming ideas as a draft to your outline. This gets ideas going and allows you to find a creative direction without any commitments.",
       "quote": "If you consciously take advantage of your natural thinking processes by gathering your brain's energies into a “storm,” you can transform these energies into written words or diagrams that will lead to lively, vibrant writing.",
       "quoteSource": "Brainstorming, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 17,
       "title": "Explore Freewriting Exercises",
       "text": "If you're struggling to get ideas flowing, you may find it productive to set a timer and start freewriting about the topic. This freewrite may not translate into a draft, but you may discover a new connection or approach that you didn't see before and it just gets you used to writing about the topic.",
       "quote": "When you freewrite, you let your thoughts flow as they will, putting pen to paper and writing down whatever comes into your mind. You don't judge the quality of what you write and you don't worry about style or any surface-level issues, like spelling, grammar, or punctuation.",
       "quoteSource": "Brainstorming, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 18,
       "title": "Understand the Point You're Making",
       "text": "Especially in the Op-Ed format, it is crucial to fully understand exactly what you're trying to communicate in your writing. Before beginning an outline, consider what point you're making and why people should consider it. This practice can help make your writing more directed and effective.",
       "quote": "Questions to Ask Yourself When Writing an Op-Ed or Column\n• Do I have a clear point to make?\n• What is it?\n• Who cares? (Writing with a particular audience in mind can inform how you execute your column. Who is it that you are trying to convince? Why are you targeting that specific reader?)\n• Is there substance to my argument?",
       "quoteSource": "How to Write an Opt-Ed or Column, Harvard Communications Department"
     },
     {
-      "num": 1,
+      "num": 19,
       "title": "Recall Previous \"Failures\"",
       "text": "As you begin a new outline, think back on the criticisms you've received towards previous works you've finished. While some could consider these \"failures\", failure is an opportunity for growth and new projects are opportunities to explore that growth. The only way to succeed from failure is to execute on those weakpoints.",
       "quote": "One of the most important things students can learn is that failure is an opportunity for growth.",
       "quoteSource": "Failure Can Be An Important Part of Writing Development, Collin Brooke and Allison Carr"
     },
     {
-      "num": 1,
+      "num": 20,
       "title": "Outline Using Illustrations!",
       "text": "Everyone has their own way of outlining, but for a more creative approach, consider drawing an illustration of your essay to serve as an outline or brainstorming excercise! This can get ideas flowing and help you see the assignment from a new perspective.",
       "quote": "... using illustrations to develop an idea will work well in many different writing contexts for many different purposes.",
       "quoteSource": "All Writers Have More To Learn, Shirley Rose"
     },
     {
-      "num": 1,
+      "num": 21,
       "title": "Think About the Greater Conversation",
       "text": "Specifically in academic writing, new papers serve as an addition to a larger academic conversation where new additions tie together loose ends and create new material to build off of. Understanding this perspective on academic papers may be a helpful influence to keep in mind while outlining to create a more benenficial paper.",
       "quote": "... writing academic papers is about joining a conversation. You're contributing your own original thinking to some complex problem, be it interpretive, theoretical, or practical.",
@@ -152,63 +152,63 @@
   ],
   "Writing Productive Drafts": [
     {
-      "num": 1,
+      "num": 22,
       "title": "Ramble, Then Sift",
       "text": "Feel empowered to write everything that comes to mind on the first draft, even if it is messy and loosely structured. Then, go back and remove anything unnecessary, or even elaborate on any incomplete thoughts. Drafts aren't meant to be perfect, so be anything but a perfectionist!",
       "quote": "The next day, I'd sit down, go through it all with a colored pen, take out everything I possibly could, find a new lead somewhere on the second page, figure out a kicky place to end it, and then write a second draft.",
       "quoteSource": "Shitty First Drafts, Anne Lamott"
     },
     {
-      "num": 1,
+      "num": 23,
       "title": "Drafts Can Be Outlines",
       "text": "An outline's purpose is to structure your thoughts and get ideas going. Depending on the person and their attitude towards the subject matter, the most productive outline might be a messy prototype of the final work. A lot of times, we can get eager to get our ideas out on paper, and while it's unlikely that our initial ramble will be as polished as ideal, it could provide a guiding vision for what the final result may resemble.",
       "quote": "The first draft is the child's draft, where you let it all pour out and then let it romp all over the place, knowing that no one is going to see it and that you can shape it later. You just let this childlike part of you channel whatever voices and visions come through and onto the page.",
       "quoteSource": "Shitty First Drafts, Anne Lamott"
     },
     {
-      "num": 1,
+      "num": 24,
       "title": "Consider Writing the Introduction Last",
       "text": "Introductions are important and set the context for the rest of the essay. For that reason, it may be beneficial to save the introduction for last to ensure it accurately captures everything the essay has to say.",
       "quote": "Many teachers generally recommend that students write their introductions last, because oftentimes introductions are the hardest paragraphs to write. They're difficult to write first because you have to consider what the reader needs to know about your topic before getting to the thesis.",
       "quoteSource": "Writing the Essay Draft, Susan Oaks"
     },
     {
-      "num": 1,
+      "num": 25,
       "title": "Feedback is Valuable at All Stages",
       "text": "Even if you're not happy with where your writing is, it can still be helpful to get feedback and suggestions from others. Don't fear that the reviewer will be too critical, that is the point of getting feedback before submitting/publishing your work!",
       "quote": "Many people avoid asking others what they think about a piece of writing because they have a sneaking suspicion that the news will not be good. If you want to improve your writing, however, constructive criticism from others will help. Remember that the criticism you receive is only criticism of the writing and not of the writer.",
       "quoteSource": "Getting Feedback, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 26,
       "title": "Focus on Your First Sentence",
       "text": "Making a good impression is important to hook your reader in and set the tone for your introduction. Because of this, it may be beneficial to spend a little extra time getting it right or being sure to revisit the first sentence in subsequent drafts.",
       "quote": "Your opening sentence is very important. It should tell readers what you're writing about, and make them want to read more.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     },
     {
-      "num": 1,
+      "num": 27,
       "title": "Remember the Reader",
       "text": "When writing a draft, always remember that you're approaching the topic from a different perspective than the reader. It is easy to assume something flows nicely or reads intuitively since you know your intentions as the writer. Make sure to reflect on the way you're writing to make sure it's universally sensible.",
       "quote": "When we read our own work, our brains tend to quickly see the patterns that we put on the page rather than the individual words. We see what we meant to write, and not necessarily what we actually wrote.",
       "quoteSource": "Proofreading, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 28,
       "title": "Attempt to Challenge Reader's Assumptions",
       "text": "If your topic is often a point of disagreement, consider approaching your writing from a persuasive angle. Consider those whose points of view may conflict with your own and pander your information to that group. This is an effective way to spark conversations and discourse through your writing",
       "quote": "Challenge and engage audiences that do not necessarily agree with the writer's point of view.",
       "quoteSource": "New York Times Opinion Guest Essays, New York Times Help Center"
     },
     {
-      "num": 1,
+      "num": 29,
       "title": "Focus on Retaining the Reader's Attention",
       "text": "When writing, it is easy to forget that your interest in the topic and your take on it is often way greater than the reader's interest will be. As you write a draft, ensure that you're writing in an interesting and engaging way to appeal to a wider amount of interest-levels.",
       "quote": "It's not enough to prove one's argument with irrefutable logic and overwhelming evidence; it's your responsibility to hold the reader's attention long enough for them to consider that evidence and logic.",
       "quoteSource": "Exigency: What Makes My Message Indispensable to My Reader, Quentin Vieregge"
     },
     {
-      "num": 1,
+      "num": 30,
       "title": "Consider Writing More Than One Draft",
       "text": "Drafting is thought of to be the process of slowly transforming a rough execution into a strong final product. You may find success in this approach, but it can also be helpful to draft an essay several times to continually practice writing about the topic. As you start a new draft, you can consider the weakpoints in your previous efforts to solve them cohesively rather than continually apply band-aids as an afterthought.",
       "quote": "With experience, writers do discover that some writing habits developed in one context can be helpful in another. For example, habits such as writing multiple drafts ...",
@@ -217,84 +217,84 @@
   ],
   "Polishing and Perfecting": [
     {
-      "num": 1,
+      "num": 31,
       "title": "Ensure Everything is Unified",
       "text": "When going from drafts to a final product, an important thing to verify is that all ideas flow nicely between each other and all relate to supporting the thesis. The writing may look finished, but you can benefit from reevaluating if all of the information is necessary, cohesive, and works towards proving your thesis. (Bonus Tip: if your ideas don't all relate to your thesis, consider updating the thesis instead of the essay!)",
       "quote": "Every paragraph should be:\n• Unified: All of the sentences in a single paragraph should be related to a single controlling idea (often expressed in the topic sentence of the paragraph).\n• Clearly related to the thesis: The sentences should all refer to the central idea, or thesis, of the paper (Rosen and Behrens 119).\n• Coherent: The sentences should be arranged in a logical manner and should follow a definite plan for development (Rosen and Behrens 119).\n...",
       "quoteSource": "Paragraphs, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 32,
       "title": "Add Flavor with Punctuation",
       "text": "Punctuation serves a purpose beyond just grammatical correctness. Explore interesting uses of punctuation to make your writing more playful and engaging!",
       "quote": "Ultimately, though, we should care about punctuation not because of the rules but because of our readers. Writing that's well punctuated is more than just 'correct.' It's readable, informative, and often even engaging. In short, it's rhetorically effective.",
       "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     },
     {
-      "num": 1,
+      "num": 33,
       "title": "Consider Your Audience",
       "text": "Check for language that is too complex or explanations that are unnecessary given your paper's intended audience. For wider audiences, it's important to consider what concepts inexperienced readers may be unfamiliar with in order to make the work more accessible. If the writing is intended for more experienced readers, you can avoid explaining concepts that readers may already be familiar with.",
       "quote": "Before preparing a fact sheet, think about your audience. Your information will be written differently if the audience is experts in the field versus the general public. If your audience is the general public, use words that the average person (someone without professional training in the subject area) can understand.",
       "quoteSource": "Fact Sheet Handout, Kent State"
     },
     {
-      "num": 1,
+      "num": 34,
       "title": "Practice Being Concise",
       "text": "When you have a limited number of words, it may be helpful to practice being concise with your writing and to only make short, effective, and necessary sentences.",
       "quote": "Throughout your letter, remember the rule:\n• Be quick,\n• Be concise, and then\n• Be quiet.\n\nDon't make the editor or the general public wait to find out what you want to say. Tell them your key point at the beginning.",
       "quoteSource": "Writing Letters to the Editor, University of Kansas Community Tool Box"
     },
     {
-      "num": 1,
+      "num": 35,
       "title": "Explore Unordinary Proofreading Strategies",
       "text": "Instead of simply reading your final product from start to finish, consider a more rigorous approach to proofreading! This could be reading the essay in reverse order (by paragraph or by sentence), pausing to evaluate after each sentence, using a separate sheet of paper to follow along, or any strategy you think will make it harder for errors to slip through the cracks. Proofreading is your last chance at perfection, so don't be afraid of the extra effort.",
       "quote": "There are three strategies you can use to help ignore the content of your message and concentrate solely on grammatical, mechanical, and formatting errors:\n• Try reading your document backwards: Begin with the last sentence and move upward toward the introduction\n• Place sheets of paper above and below each sentence in the document as you read through it\n• Place slashes between each sentence and then evaluate each one separately",
       "quoteSource": "Proofreading, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 36,
       "title": "Take a Break Before Proofreading",
       "text": "It can be tempting to treat proofreading as the immediate next step after finalizing your essay, though this practice is not efficient. To productively proofread, consider taking a step away from your work to focus on other tasks as a palate cleanser. Then, when you return to proofreading, you won't be influenced by your thoughts as a writer and only by your thoughts as a reader.",
       "quote": "After working hard to develop the substance of a message, you may be weary of it and eager to turn it over to your instructor. If possible, however, you are wise to set the draft aside and work on another task before trying to edit it.",
       "quoteSource": "Proofreading, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 37,
       "title": "Reevaluate Your Citations",
       "text": "Evidence is a crucial component in many forms of writing, especially academic writing. To ensure your writing is as effective as it can be, make sure you emphasize the credibility of your cited materials and practice proper citation styling procedures.",
       "quote": "[Look for] citation problems, such as\n• problems weaving sources into your argument or analysis\n• problems establishing the authority of sources\n• problems using the required citation style",
       "quoteSource": "Editing, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 38,
       "title": "Review for Inclusive Language",
       "text": "Writers should expect their work to be consumed by readers of many different experiences and identities. To accommodate this, consider how accessible your language may be to readers of diverse experiences. This is a courteous way of ensuring your reader feels comfortable and is minimally distracted by any inclusivity oversights.",
       "quote": "[Look for] stylistic problems, such as ... inclusivity",
       "quoteSource": "Editing, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 39,
       "title": "Revise for Style",
       "text": "When writing, there is often many ways to communicate the same idea while still following proper grammatical conventions. When revising, pay attention to your writing style and ensure it remains consistent and purposeful throughout the work.",
       "quote": "• Katelyn was concerned that Chloe worked late every night.\n• It concerned Katelyn that every night Chloe worked late.\n• Chloe worked late every night, and Katelyn was concerned.\n• Every night Chloe worked late, and that concerned Katelyn.\nEach of these sentences say the same thing, and the grammar is 'correct' in each, but the sentence an author chooses depends on the style she wishes to use.",
       "quoteSource": "Grammar, Rhetoric, and Style; Craig Hulst"
     },
     {
-      "num": 1,
+      "num": 40,
       "title": "Beware of Grammar Checkers",
       "text": "Grammar checkers are powerful tools that can catch a lot of mistakes, but unfortunately they are not perfect. Before blindly accepting suggestions, review them to understand what it's trying to improve and validate if the suggestion is right for your writing. Additionally, grammar checkers cannot catch everything and they are not a sufficient replacement for thorough proofreading.",
       "quote": "These programs work with a limited number of rules, so they can't identify every error and often make mistakes. They also fail to give thorough explanations to help you understand why a sentence should be revised. You may want to use a grammar checker to help you identify potential run-on sentences or too-frequent use of the passive voice, but you need to be able to evaluate the feedback it provides.",
       "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 41,
       "title": "Review For Structure",
       "text": "Revisiting the structure of your writing is an important step in the editing process. Try to identify if your writing has a clear introduction, conclusion, and thesis statement. Additionally, ensure that all of the information discussed in the writing ties back into that thesis and has cohesive transitions between paragraphs.",
       "quote": "Does your paper have an appropriate introduction and conclusion? Is your thesis clearly stated in your introduction? Is it clear how each paragraph in the body of your paper is related to your thesis? Are the paragraphs arranged in a logical sequence? Have you made clear transitions between paragraphs?",
       "quoteSource": "Editing and Proofreading, Writing Center of UNC Chapel Hill"
     },
     {
-      "num": 1,
+      "num": 42,
       "title": "Consider Different Formatting When Proofreading",
       "text": "As you edit and proofread your writing, you may benefit from formatting your paper with different sizes, spacing, line-heights, or even colors to gain a new visual perspective on the text to catch errors.",
       "quote": "Altering the size, spacing, color, or style of the text may trick your brain into thinking it's seeing an unfamiliar document, and that can help you get a different perspective on what you've written.",
@@ -303,63 +303,63 @@
   ],
   "\"Rules\" to be Broken": [
     {
-      "num": 1,
+      "num": 43,
       "title": "\"I\" Statements are Welcome",
       "text": "Many students, myself included, are told to avoid using first-person statements that draw from personal experience. While this may be explicitly enforced in some settings, this is more of a stylistic choice than a firm rule that must be followed.",
       "quote": "Many of you have been taught not to use the word 'I' in your academic writing; not to include anything that does not directly relate to that mysterious thing called a 'thesis statement;' and not to include anything personal in your writing. The opening of this essay has broken all of those so-called rules ...",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
     },
     {
-      "num": 1,
+      "num": 44,
       "title": "Imitation vs. Plagarism",
       "text": "Imitating other work can be an efficient approach to learning from the work we read. Imitating is different from plagiarism since it strives to learn from the conventions of the sampled work rather than copying from it. This is an encouraged academic practice and a common method of learning in many other settings.",
       "quote": "Oftentimes, we learn by mimicking or imitating others. Consider how you might catch yourself acting like a parent or close loved one—in essence, you are imitating that behavior.",
       "quoteSource": "The Evolution of Imitation: Building Your Style, Craig A. Meyer"
     },
     {
-      "num": 1,
+      "num": 45,
       "title": "Play With Punctuation!",
       "text": "We are often taught that punctuation is a rule of grammar that must be followed in writing, which can feel restricting. In reality, punctuation is flexible and you can adapt different uses of punctuation in creative ways!",
       "quote": "Instead of 'rules,' we prefer to use the more flexible word conventions, which includes standard expectations of correct usage—certain 'rules'—but applies them within a broader context in which authors frequently have options on how and when to use punctuation.",
       "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     },
     {
-      "num": 1,
+      "num": 46,
       "title": "Don't Confine Yourself to Text",
       "text": "Conventionally, \"writing\" relates to just the words on the page and is usually associated with articles, essays, novels, etc.. However, depending on the medium, your expression of ideas as a writer doesn't need to be confined to just words on a page. Images/Figures or accompanying audio/video can be a helpful way to supplementally communicate your ideas in a more engaging format.",
       "quote": "...as more writers publish and distribute their work online, the more readers expect to find that information may be communicated in multiple modes, from text to visuals and audio.",
       "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
     },
     {
-      "num": 1,
+      "num": 47,
       "title": "Avoid Revising Early Drafts",
       "text": "A lot of early academic writing processes promote the idea of perfecting early outlines and drafts to lead to a stronger final product. While some may find this helpful, in many writing contexts this just slows you down. Save your editing for more developed iterations, the early stages are about getting ideas down and exploring creative directions at the expense of perfection.",
       "quote": "It has become commonplace for postsecondary writing instructors in the U.S. to suggest that writers not worry about editing during the early stages of a writing project. This can be sound advice because time spent editing could be wasted if what you're editing doesn't respond to the demands of the school assignment or isn't rhetorically sensitive.",
       "quoteSource": "Editing, Writing Commons"
     },
     {
-      "num": 1,
+      "num": 48,
       "title": "Explore Diverse Opinions",
       "text": "It is often difficult to express an unpopular opinion in your writing or to oppose the article you're analyzing. Sometimes, providing a unique perspective is the best contribution you can make and breaking that natural conformity can be important for your writing or reporting.",
       "quote": "As Herbert Bayard Swope, an editor at the New York World newspaper in the 1920s who was a pioneer of the concept of an op-ed page, once said, 'Nothing is more interesting than opinion when opinion is interesting.' Or in the words of John B. Oakes, a long-ago predecessor of mine who drove the creation of Op-Ed, 'Diversity of opinion is the lifeblood of democracy. ... The minute we begin to insist that everyone think the same way we think, our democratic way of life is in danger.'",
       "quoteSource": "Why The New York Times Is Retiring the Term 'Op-Ed', Kathleen Kingsbury"
     },
     {
-      "num": 1,
+      "num": 49,
       "title": "You May Cite Sources You Disagree With",
       "text": "Typically, evidence is thought of as corroborating claims from other authors with credibility. While this may be a general rule of thumb, there can also be importance to citing claims you disagree with to demonstrate a counter-argument or highlight a flaw in that line of thinking.",
       "quote": "... there are times when you should quote or paraphrase sources that you don't agree with or do not find particularly compelling. They may convey ideas and opinions that help explain and justify your own argument.",
       "quoteSource": "Listening to Sources, Talking to Sources; Amy Guptill"
     },
     {
-      "num": 1,
+      "num": 50,
       "title": "Share More About Yourself",
       "text": "In many formal and technical writing situations, writers are encouraged to share very little about who they are as to not distract from their discussion. This is a stylistic choice, but you can add an element of personal connection to your writing by showing more humanity in your approach.",
       "quote": "Newspaper reporters and technical writers are trained to reveal almost nothing about themselves in their writings. This makes them freaks in the world of writers, since almost all of the other ink-stained wretches in that world reveal a lot about themselves to readers.",
       "quoteSource": "How to Write With Style, Kurt Vonnegut"
     },
     {
-      "num": 1,
+      "num": 51,
       "title": "Ignore Irrelevant Advice When Switching Genres",
       "text": "When we practice writing, we logically conclude that we are becoming better writers. This is true, but there are a lot of different genres of writing and not all skills are transferable. You could write a thousand research papers and intimately learn the process, but it's likely that very few of those aquired skills would transfer to something like poetry. When switching genres, reconsider what strategies are appropriate for that genre.",
       "quote": "... some people believe that when we learn to write in one genre, we have learned to write in all; but to write in any genre, we need practice in that genre and in the conventions defining that genre.",
@@ -368,63 +368,63 @@
   ],
   "Rhetorical Toolkit": [
     {
-      "num": 1,
+      "num": 52,
       "title": "Credibility is Powerful",
       "text": "When writing anything persuasive, a critical reader will always question why they should be listening to you. If you establish yourself as a credible and reliable source of information, you will be more easily trusted and your arguments will often be more effective.",
       "quote": "You've probably noticed that establishing credibility (ethos) is one of the most important things an author can do, and nearly every aspect of the essay—its audience awareness, organization, and content—can affect the author's credibility.",
       "quoteSource": "Assessing Source Credibility for Crafting a Well-Informed Argument, Kate Warrington & Natasha Kovalyova & Cindy King"
     },
     {
-      "num": 1,
+      "num": 53,
       "title": "Establish Credibility Through Personal Examples",
       "text": "Personal narrative can demonstrate why an issue relates to something you're knowledgeable or passionate about, which establishes you as a credible author. For emotionally touching stories, it can also provide a dimension of reality and the topic to remind the reader that the events discussed have real-world emotional impact.",
       "quote": "Melynda chose to write about teen suicide, certainly an important topic, but one that far too often leads to a patchwork of statistics and distant narratives, more a report than an essay with heart. Sadly, Melynda had reason to care deeply about her topic: her cousin Jared killed himself with an overdose of prescription pain medication.",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
     },
     {
-      "num": 1,
+      "num": 54,
       "title": "Differentiate Pathos from Bias",
       "text": "Appeals to emotion can be a strong way to communicate an actionable message, but be cautious of the way you communicate in this way. If it's too frontal, it may give off a feeling of bias and guilt-tripping rather than persuasion.",
       "quote": "Appealing to the reader's emotions (using pathos) can be very effective at helping the reader connect to the author's main point, but when we select sources for research projects, we must make sure that an author's appeal to emotion is not a sign of bias. Biased sources may cause readers to feel guilty about holding certain viewpoints or engaging in certain activities ...",
       "quoteSource": "Weaving Personal Experience into Academic Writing, Marjorie Stewart"
     },
     {
-      "num": 1,
+      "num": 55,
       "title": "Punctuation Alters Voice and Tone",
       "text": "A writer's use of punctuation can influence the tone and voice of the writing. Punctuation can imply sophistication such as with the use of em-dashes which are typically not used in casual settings. It could also imply a laid-back tone such as with an ellipsis at the end of sentences (i.e. \"ummm... not sure about that..?\"). The use of punctuation can range pretty heavily between mediums such as casual texting to scholarly papers, so it is important to consider how your punctuation comes off.",
       "quote": "...punctuation, by conveying the tone of an author's voice, can also illustrate the context of a situation being described",
       "quoteSource": "Punctuation's Rhetorical Effects, Kevin Cassell"
     },
     {
-      "num": 1,
+      "num": 56,
       "title": "Pay Attention to Photo Composition",
       "text": "More presentable photos and figures can have a noticeable impact on a reader's opinion of what is being shown. For example, a well-composed photo of food from a restaurant is more likely to appetize a potential customer than a dimly shot photo of already-handled food.",
       "quote": "The fact of the matter is that you can't know exactly what your restauranting experience will be like when you walk in the door of a new place. But the images clearly had a persuasive impact on you as a decision-maker: the contrast between the appetizing images and the unappetizing photos made you question the quality and consistency of the restaurant's food ...",
       "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
     },
     {
-      "num": 1,
+      "num": 57,
       "title": "Separation of Art and Visual Rhetoric",
       "text": "Sometimes, visuals are added to text for an artistic/aesthetic goal or as a form of visual explanation. Other times, they may exist as a form of persuasion and appeal. It is important to be able to identify this difference and ensure you understand your own intentions when adding visuals to your writing.",
       "quote": "A picture of a hamburger framed in an art museum does not exist to market hamburgers (though it might make you hungry!). However, a picture of a hamburger on an Instagram feed for a particular restaurant exists as a way to encourage visitors to come and dine at the restaurant.",
       "quoteSource": "Understanding Visual Rhetoric, Jenae Cohn"
     },
     {
-      "num": 1,
+      "num": 58,
       "title": "Simple Ethos Through Personal Connection",
       "text": "Ethos is an appeal that establishes credibility and trust with the reader. This is often thought of as establishing credentials or experience, but you can achieve a similar effect just by connecting with the reader. By establishing personality in your writing, readers may be more inclined to trust you since you've established that connection and they've learned what qualities apply to you as a writer.",
       "quote": "These revelations tell us as readers what sort of person it is with whom we are spending time. Dws the writer sound ignorant or informed, stupid or bright, crooked or honest, humorless or playful - ? And on and on.",
       "quoteSource": "How to Write With Style, Kurt Vonnegut"
     },
     {
-      "num": 1,
+      "num": 59,
       "title": "Grammar Conventions Have Rhetorical Applications",
       "text": "While grammar conventions are typically considered rules to follow strictly for convention's sake, they can have an important impact on your rhetoric as a writer. Arranging words and ideas in understandable formats is the heart of the intersection between grammar and rhetoric and practicing this will allow you to communicate your ideas much more effectively and compellingly.",
       "quote": "By arranging the words according to what those listening to me expect from my grammar, my audience would know exactly what I meant. And this awareness of what the audience needs is the heart of what I am talking about—that grammar has a rhetorical use.",
       "quoteSource": "Grammar, Rhetoric, and Style; Craig Hulst"
     },
     {
-      "num": 1,
+      "num": 60,
       "title": "Consider Your Persona",
       "text": "A persona is a character or role you and your audience plays during the creation of a piece of writing. Consider how this may impact the way you write or how your work is perceived and adjust these rhetorical personas to match your goals.",
       "quote": "Think of a persona as a mask that you can put on or take off as a writer. It's a 'think of yourself as' rhetorical move. ... Once you begin to consider your persona—and your reader's persona—you can start to form an opinion about why your paper would be important.",
