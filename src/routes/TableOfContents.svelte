@@ -27,7 +27,8 @@
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          Researching & Evaluating Sources
+          <span class="sr-only">Scroll to </span>Researching & Evaluating
+          Sources
         </div>
       </a>
       <a
@@ -48,7 +49,7 @@
           <circle cx="4" cy="12" r="1.5" />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          Building an Outline
+          <span class="sr-only">Scroll to </span>Building an Outline
         </div>
       </a>
       <a
@@ -70,7 +71,7 @@
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          Writing Productive Drafts
+          <span class="sr-only">Scroll to </span>Writing Productive Drafts
         </div>
       </a>
       <a
@@ -91,7 +92,7 @@
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          Polishing And Perfecting
+          <span class="sr-only">Scroll to </span>Polishing And Perfecting
         </div>
       </a>
       <a
@@ -109,7 +110,7 @@
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          "Rules" to be Broken
+          <span class="sr-only">Scroll to </span>"Rules" to be Broken
         </div>
       </a>
       <a
@@ -131,7 +132,7 @@
           />
         </svg>
         <div class="text-primary-500 text-xl md:text-lg font-bold text-center">
-          Rhetorical Toolkit
+          <span class="sr-only">Scroll to </span>Rhetorical Toolkit
         </div>
       </a>
     </div>

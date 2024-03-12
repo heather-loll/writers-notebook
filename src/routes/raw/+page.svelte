@@ -15,6 +15,7 @@
 
 <a
   href="/"
+  aria-label="Scroll to Top"
   class="p-4 absolute top-0 left-0 font-semibold hover:opacity-70 flex space-x-2 items-center"
   ><svg
     xmlns="http://www.w3.org/2000/svg"
