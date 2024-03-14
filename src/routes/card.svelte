@@ -31,13 +31,13 @@
 
       // Add a transition
       const time = 300 * Number(!reducedMotion());
-      elem.style.transition = `top ${time}ms, bottom ${time}ms, left ${time}ms, right ${time}ms`;
+      elem.style.transition = `top ${time}ms, bottom ${time}ms, left ${time}ms, right ${time}ms, height ${time}ms`;
 
       // Just after creation, apply new styles to expand to modal view
       setTimeout(
         () => {
           elem.style.top = "6rem";
-          elem.style.bottom = "6rem";
+          elem.style.height = `calc(100vh - 12rem)`;
 
           // Remove property so classes work
           elem.style.left = "";
@@ -69,9 +69,9 @@
 
   const closeAnimation = () => {
     elem.style.top = `${rect.top}px`;
-    elem.style.bottom = `${window.innerHeight - (rect.top + rect.height)}px`;
     elem.style.left = `${rect.left}px`;
     elem.style.right = `${window.innerWidth - (rect.left + rect.width)}px`;
+    elem.style.height = `${rect.height}px`;
     elem.querySelector(".modal-close-button")?.classList.add("opacity-0");
     elem.style.overflow = "hidden";
   };
@@ -169,7 +169,7 @@
 
   {#if $modalIsOpen}
     <div
-      class="fixed inset-0 bg-black/30 z-40"
+      class="fixed inset-0 bg-black/30 z-40 h-screen"
       on:click={closeModal}
       role="presentation"
       aria-hidden="true"
