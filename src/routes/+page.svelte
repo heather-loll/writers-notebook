@@ -3,8 +3,11 @@
   import { modalIsOpen } from "$lib/stores";
   import jsonData from "../data.json";
   import TableOfContents from "./TableOfContents.svelte";
+  import { slide } from "svelte/transition";
 
   let categories: CategorizedTips = [];
+
+  let bannerMessageOpen = true;
 
   Object.keys(jsonData).forEach((category) => {
     categories.push({
@@ -21,8 +24,52 @@
 </svelte:head>
 
 <div class="h-full w-full bg-gray-50">
+  {#if bannerMessageOpen}
+    <div out:slide class="w-full flex justify-between items-center h-12">
+      <div class="px-3 flex items-center">
+        <svg
+          aria-hidden="true"
+          class="w-5 h-5 fill-secondary-500 mr-2"
+          viewBox="0 0 24 24"
+          ><path
+            d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8"
+          /></svg
+        >
+        <span>
+          My written reflection is on a different page. <a
+            href="/reflection"
+            tabindex={$modalIsOpen ? -1 : 0}
+            class="text-primary-600 hover:underline">You can find it here</a
+          >!
+        </span>
+      </div>
+      <button
+        class="transition-opacity mr-3 w-6 h-6 rounded-full ring-2 ring-gray-200 hover:bg-gray-200 text-gray-700 grid place-items-center"
+        tabindex={$modalIsOpen ? -1 : 0}
+        on:click={() => {
+          bannerMessageOpen = false;
+        }}
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          stroke-width="1.5"
+          stroke="currentColor"
+          class="w-4 h-4"
+          aria-label="Close"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            d="M6 18 18 6M6 6l12 12"
+          />
+        </svg>
+      </button>
+    </div>
+  {/if}
   <header
-    class="w-full min-h-[50dvh] md:min-h-[70dvh] bg-gradient-to-br from-secondary-500 to-primary-400 mb-12 grid place-items-center"
+    class="relative w-full min-h-[50dvh] md:min-h-[70dvh] bg-gradient-to-br from-secondary-500 to-primary-400 mb-12 grid place-items-center"
     style="clip-path: polygon(100% 0%, 0% 0% , 0.00% 83.33%, 2.50% 83.50%, 5.00% 83.98%, 7.50% 84.76%, 10.00% 85.79%, 12.50% 87.01%, 15.00% 88.35%, 17.50% 89.75%, 20.00% 91.13%, 22.50% 92.40%, 25.00% 93.49%, 27.50% 94.36%, 30.00% 94.95%, 32.50% 95.22%, 35.00% 95.16%, 37.50% 94.78%, 40.00% 94.10%, 42.50% 93.15%, 45.00% 91.99%, 47.50% 90.68%, 50.00% 89.29%, 52.50% 87.90%, 55.00% 86.58%, 57.50% 85.42%, 60.00% 84.47%, 62.50% 83.79%, 65.00% 83.41%, 67.50% 83.35%, 70.00% 83.62%, 72.50% 84.21%, 75.00% 85.08%, 77.50% 86.18%, 80.00% 87.45%, 82.50% 88.82%, 85.00% 90.22%, 87.50% 91.56%, 90.00% 92.78%, 92.50% 93.81%, 95.00% 94.59%, 97.50% 95.07%, 100.00% 95.24%);"
   >
     <a
@@ -122,14 +169,17 @@
   >.
 </footer>
 
-<button
-  on:click={() => {
-    document.documentElement.scrollTo(0, 0);
-  }}
+<a
+  href="/reflection"
   tabindex={$modalIsOpen ? -1 : 0}
-  class="fixed bottom-6 right-6 p-3.5 border-2 border-primary-500 bg-secondary-300/20 hover:bg-secondary-300/50 rounded-full backdrop-blur-md transition-colors"
+  class="flex space-x-2 items-center fixed bottom-6 right-6 p-3.5 border-2 border-primary-500 bg-secondary-300/30 hover:bg-secondary-300/50 rounded-full backdrop-blur-md transition-colors"
 >
   <svg aria-hidden="true" class="w-6 h-6 fill-primary-500" viewBox="0 0 24 24">
-    <path d="m4 12 1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8z" />
+    <path
+      d="M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2M6 14v-2.47l6.88-6.88c.2-.2.51-.2.71 0l1.77 1.77c.2.2.2.51 0 .71L8.47 14zm12 0h-7.5l2-2H18z"
+    ></path>
   </svg>
-</button>
+  <div class="text-primary-500 font-bold tracking-wide uppercase">
+    Reflection
+  </div>
+</a>
