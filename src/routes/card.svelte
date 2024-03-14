@@ -143,6 +143,7 @@
         stroke-width="1.5"
         stroke="currentColor"
         class="w-6 h-6"
+        aria-label="Close"
       >
         <path
           stroke-linecap="round"
