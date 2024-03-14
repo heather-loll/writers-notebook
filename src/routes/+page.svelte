@@ -49,6 +49,7 @@
         on:click={() => {
           bannerMessageOpen = false;
         }}
+        aria-label="Dismiss notice"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
