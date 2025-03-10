@@ -58,7 +58,7 @@
     >
   </div>
   <h1 class="mb-0">Writer's Notebook</h1>
-  <p class="mt-2">Gavin Hernandez, WRIT1, UCSC Winter 2024</p>
+  <p class="mt-2">Heather Hernandez, WRIT1, UCSC Winter 2024</p>
 
   <hr class="mt-4 mb-8 border-gray-300 md:-mx-8" />
 

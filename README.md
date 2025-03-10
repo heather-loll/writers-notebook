@@ -1,13 +1,13 @@
 # Writer's Notebook
 
-This is a project for WRIT1. The site is viewable [here](https://writersnotebook.gavhern.com).
+This is a project for WRIT1. The site is viewable [here](https://writersnotebook.heather.lol).
 
 Site made with SvelteKit running on Vite & TypeScript with TailwindCSS & PostCSS for styling.
 
 To build and run locally:
 
 ```sh
-$ git clone https://github.com/GavHern/writers-notebook.git
+$ git clone https://github.com/heather.loll/writers-notebook.git
 $ npm i
 $ npm run dev -- --open # add --host flag to view anywhere on the local network.
 ```

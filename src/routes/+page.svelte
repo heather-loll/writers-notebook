@@ -20,7 +20,7 @@
 </script>
 
 <svelte:head>
-  <title>Writer's Notebook - Gavin Hernandez</title>
+  <title>Writer's Notebook - Heather Hernandez</title>
 </svelte:head>
 
 <div class="h-full w-full bg-gray-50">
@@ -75,7 +75,7 @@
   >
     <a
       class="absolute right-0 top-0 p-4 flex gap-1.5 items-center drop-shadow-lg hover:opacity-75"
-      href="https://github.com/GavHern/writers-notebook"
+      href="https://github.com/heather.loll/writers-notebook"
       tabindex={$modalIsOpen ? -1 : 0}
     >
       <svg viewBox="0 0 24 24" aria-hidden="true" class="h-6 w-6 fill-white/90">
@@ -118,7 +118,7 @@
         Writer's Notebook
       </h1>
       <p class="text-2xl text-white font-bold tracking-wide text-center">
-        By: Gavin Hernandez <span class="opacity-50 font-thin -translate-x-1"
+        By: Heather Hernandez <span class="opacity-50 font-thin -translate-x-1"
           >|</span
         > WRIT1
       </p>
@@ -146,8 +146,8 @@
 </div>
 
 <footer class="bg-gray-200 p-4 text-center">
-  Made by Gavin Hernandez for Writing 1, UCSC Winter Quarter 2024. <a
-    href="https://github.com/GavHern/writers-notebook"
+  Made by Heather Hernandez for Writing 1, UCSC Winter Quarter 2024. <a
+    href="https://github.com/heather.loll/writers-notebook"
     class="text-primary-600 hover:underline"
     tabindex={$modalIsOpen ? -1 : 0}>View code on GitHub</a
   >!<br />Difficulty viewing this page?
